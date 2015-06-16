@@ -26,10 +26,10 @@ def formatDuration(str_):
 
     info = str_.split(':')
     noHours = int(info[0])
-    noDays  = int(info[1])
+    noMin  = int(info[1])
     noSec   = int(info[2])
     
-    time = noHours * 100 + noDays + (noSec * 0.01)
+    time = noHours * 100 + noMin + (noSec * 0.01)
    
     return time
 
