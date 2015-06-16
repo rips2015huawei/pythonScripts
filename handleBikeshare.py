@@ -19,24 +19,21 @@ c7 = "Subscription Type"
 
 def formatDuration(str_):
     str_ = str_.replace(' ','')
-    info = str_.split('h');
-    numHours = int(info[0])
-    if (numHours > 23):
-        noDays = int(np.floor(numHours/24))
-        numHours = numHours % 24 
-        if (noDays > 30):
-            noMonths = int(np.floor(noDays/31))
-            noDays = noDays % 31 + 1;
-            str_ = str(noMonths) + '/' + str(noDays)+ ' ' + str(numHours) + 'h' + info[1] 
-        else:
-            str_ = '12/' + str(noDays) + ' ' + str(numHours) + 'h' + info[1]
-    else:
-        str_ = '11/1 ' + str_ # if no days, then set month as 11 --> false
     str_ = str_.replace('h', ':')
-    str_ = str_.replace('sec.', '')
+    str_ = str_.replace('sec.','')
     str_ = str_.replace('s','')
     str_ = str_.replace('m',':')
-    return str_
+
+    info = str_.split(':')
+    noHours = int(info[0])
+    noDays  = int(info[1])
+    noSec   = int(info[2])
+    
+    time = noHours * 100 + noDays + (noSec * 0.01)
+   
+    return time
+
+
 
 # Read in all csv files from current directoryy
 allFiles = glob.glob("SystemData/2012/*.csv");
@@ -49,8 +46,6 @@ for file_ in allFiles:
            ,header = 0)
     format_ = '%m/%d/%y %H:%M'
     df[c1] = df[c1].apply(formatDuration)
-    print df[c1]
-    df[c1] = pd.to_datetime(df[c1], format = '%m/%d %H:%M:%S')
     df[c2] = pd.to_datetime(df[c2], format = format_)
     df[c4] = pd.to_datetime(df[c4], format = format_)
     combinedData.append(df)
@@ -63,8 +58,10 @@ casuals = pd.DataFrame(data.loc[data[c7] == 'Casual'])
 registered = pd.DataFrame(data.loc[data[c7]=='Registered'])
 
 print 'Casual Mean Duration:'
-print casuals.mean(axis = 1)
+print casuals[c1].mean()
+print ' w/ stdev:'
+print casuals[c1].std() 
 print '\nRegistered Mean Duration:'
-print registered.mean(axis = 1)
-
-
+print registered[c1].mean()
+print ' w/ stdev:'
+print registered[c1].std()
