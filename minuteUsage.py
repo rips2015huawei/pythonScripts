@@ -50,6 +50,9 @@ date = start_date;
 times =[]
 times.append(start_date);
 df = [0]
+
+subs = casuals
+
 while date != end_date:
     date = date + t
     times.append(start_date)
