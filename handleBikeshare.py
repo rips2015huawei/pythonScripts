@@ -29,7 +29,7 @@ def formatDuration(str_):
     noMin  = int(info[1])
     noSec   = int(info[2])
     
-    time = noHours * 100 + noMin + (noSec * 0.01)
+    time = float(noHours * 60 + noMin + (noSec * (1/60)))
    
     return time
 
@@ -57,11 +57,19 @@ print data.head()
 casuals = pd.DataFrame(data.loc[data[c7] == 'Casual'])
 registered = pd.DataFrame(data.loc[data[c7]=='Registered'])
 
-print 'Casual Mean Duration:'
-print casuals[c1].mean()
+print 'Casual Mean, Median Duration:'
+print casuals[c1].mean(), ' , ' ,casuals[c1].median()
 print ' w/ stdev:'
 print casuals[c1].std() 
-print '\nRegistered Mean Duration:'
-print registered[c1].mean()
+print '\nRegistered Mean, Median Duration:'
+print registered[c1].mean(), ' , ', registered[c1].median()
 print ' w/ stdev:'
 print registered[c1].std()
+
+
+shortTrips = data.loc[data[c1] < 120]
+print "\n\n\n";
+print '\nShorter routes:\n'
+print shortTrips[c1].mean(), ' , ', shortTrips[c1].median()
+print ' w/ stdev: '
+print shortTrips[c1].std()
