@@ -45,7 +45,7 @@ def changeYearFormat(str_):
 
 
 # Read in all csv files from current directoryy
-allFiles = glob.glob("SystemData/2014/*.csv");
+allFiles = glob.glob("SystemData/*.csv");
 data = pd.DataFrame()
 combinedData = []
 for file_ in allFiles:
