@@ -9,7 +9,6 @@ def returnDatestamp(yr, mnth, day, hr, min):
 def returnDatestampDate(yr, mnth, day):
     return pd.to_datetime(str(yr) +' '+ str(mnth)+ ' '+ str(day), format = "    %Y %m %d")
 
-df_weatherObserved = o
 o = df_weatherObserved
 # Initialize to any date, don't care, just necessary ot run the loop.
 o['date'] = datetime.datetime(2012,1,12)
