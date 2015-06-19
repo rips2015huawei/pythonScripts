@@ -5,7 +5,10 @@ import matplotlib.cm as cm
 from matplotlib import gridspec
 import datetime
 
-
+# FUNCTION: checkInit
+# PARAMETERS: str i
+# RETURNS: float object
+# PURPOSE: to change object type from str or (value) 'None' to a float.
 def checkInt(i):
     if (i == None):
         return 0
@@ -14,66 +17,75 @@ def checkInt(i):
     else:
         return float(i)
 
-def plotObserved(casuals, df_weatherObserved):
-    nrows = 6
-    ncol = 2
 
-    ax_row = 0
-    ax_col = 0
+# FUNCTION: plotObserved
+# PARAMETERS: 
+#    * riders  -- dataframe assumed to be of riders
+#    * weather -- dataframe assumed to be of weather
+# RETURNS: nothing
+# PURPOSE: to output a plot of ridership versus rainfall.
+#
+# MISC: This method can clearly be improved. For one, can look up
+#       axes and subplots to see how to put them together on one
+#       figure. I just wanted a quick plot.
+#       Secondly, the function itself can be made more generic. It's
+#       clearly targeted for specific input. Again, just wanted to work
+#       in ipython quickly.
+def plotObserved(riders, weather):
 
-    #df_weatherObserved['precipm'] = df_weatherObserved['precipm'].apply(lambda x: float(x))
+    # First, convert the values stored from the JSON into float objects.
     df_weatherObserved['precipm']=df_weatherObserved['precipm'].apply(checkInt) 
 
-    min_h = df_weatherObserved['date'][0] - df_weatherObserved['date'][1]
-    for x in range(2, len(df_weatherObserved)):
-        if df_weatherObserved['date'][x] - df_weatherObserved['date'][x-1] < min_h:
-            min_h = df_weatherObserved['date'][x] - df_weatherObserved['date'][x-1]
 
-    #if min_h < datetime.timedelta(minutes = 1):
+    fig = plt.figure() # to be used to plot the figure
 
-    max_ = 0;
-    fig = plt.figure()
+    max_ = 0 # will store max # of riders; to be used for limits on the plot
+
+    # Storage containers for the data:
     xs = []
     ys = []
-    pairs = []
 
+    # Loop over months (1, 2, ... 12):
     for i in range(1, 13):
-        #axes = fig.add_subplot(gs[ax_row, ax_col])
+
+        # First find all instances that belong to the month i.
         casMonths = pd.DataFrame(casuals.loc[casuals.index.month == i]);
         weatherMonths = df_weatherObserved.loc[df_weatherObserved.index.month == i]
-        counts = []
-        xs.append(weatherMonths['precipm'])
+
+        
+        xs.append(weatherMonths['precipm']) # store the rainfall (m) for the instances 
+        counts = [] # this container will be used to store the number of bikes in use for each timeframe during month i
+
+        # Loop over all the instances of weather in the month i and determine the number of riders during the rainfall level observed.
         for x in range(0, len(weatherMonths['date'])): 
-            date = weatherMonths['date'][x]  
-            if x < (len(weatherMonths['date'])-1):
-                buff = weatherMonths['date'][x+1] - weatherMonths['date'][x]
+            date = weatherMonths['date'][x] # date is now a datetime object, just for less writing
+            if x < (len(weatherMonths['date'])-1): # i.e., if we're not on the last element (because we access the next element)
+                buff = weatherMonths['date'][x+1] - date # create a buffer for the timeframe to view ridership
+
+            # Find all bikes in use during the timeframe.
             bikesInUse = (casMonths.loc[(casMonths['Start date'] >= (date-buff)) & (casMonths['End date'] < (date + buff))])
             if len(bikesInUse) > max_:
                 max_ = len(bikesInUse)
-            #print len(bikesInUse)
-            counts.append(len(bikesInUse))
-        #weatherMonths['riders'] = counts;
-        ys.append(counts)
-        pairs.append([weatherMonths['precipm'], counts])
-        ax_col = ax_col +1
-        if ax_col >= ncol:
-           ax_col = ax_col % ncol
-           ax_row = ax_row + 1
+            counts.append(len(bikesInUse)) # store the number of bikes in use during the timeframe
+        ys.append(counts) # store the number of bikes in use for all timeframes in month i
 
-    #plt.scatter(xs[0], ys[0], 'k', xs[1], ys[1], 'k-', xs[2], ys[2], 'r', xs[3], ys[3], 'b--', xs[4], ys[4],'b', xs[5], ys[5],'g-' ,xs[6], ys[6], 'c',xs[7], ys[7], 'k', xs[8], ys[8], 'c-', xs[9], ys[9],'b', xs[10], ys[10], 'g-', xs[11], ys[11], 'm') 
-    colors = cm.rainbow(np.linspace(0, 1, len(xs))) 
-    scatters = [];
-    months = ['Jan', 'Feb', 'March', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec']
+    colors = cm.rainbow(np.linspace(0, 1, len(xs))) # vector of colors for use in scatter plot
+
+    scatters = [] # container for the plots, so that we may associate each plot of data with its appropriate month in the plt.legend() call
+    months = ['Jan', 'Feb', 'March', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'] # list of months
+
+    # Plot the data, giving each set (corresponding to each month) a different color.
     for x, y, c in zip(xs, ys, colors):
         scatters.append(plt.scatter(x, y, color = c))
+
+    # Fix up the plot.
     plt.legend(scatters, months)
     plt.title("Riders vs Rain, 2012 and 2014")
     plt.ylabel("Number of Riders")
     plt.xlabel("Precipitation (m)")
     plt.xlim([-0.1,2]) 
-    #plt.xticks(np.linspace(0.1, 2.0,num= 31))
     plt.ylim([-1, max_])
-    # >> Shows all data >>  #plt.axis('tight')
-    plt.show()
+    # plt.axis('tight') # This line will set the axis so that all data, and just all data, is shown. 
 
-    print len(xs), len(ys)
+    # Show the plot.
+    plt.show()
