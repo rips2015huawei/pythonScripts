@@ -4,11 +4,11 @@
     * df(s) = dataframe(s)
 
 ## (Somewhat) Useful Files in this Directory:
-    * handleBikeshare.py  ~  reads in the Capital Bikeshare data
-        - gives two dfs: casuals    ~ df of casual riders
+* handleBikeshare.py  ~  reads in the Capital Bikeshare data
+    - gives two dfs: casuals    ~ df of casual riders
                          registered ~ df of registered users
-    * readWeatherData.py  ~  reads in the Wunderground data
-        - gives two dfs: df_weatherObserved ~ df of observed instances
+* readWeatherData.py  ~  reads in the Wunderground data
+    - gives two dfs: df_weatherObserved ~ df of observed instances
                          df_weatherSummary  ~ df of daily summaries  
 
 ## In ipython Interactive Shell:
