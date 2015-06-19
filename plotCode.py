@@ -59,11 +59,16 @@ def plotObserved(riders, weather):
         # Loop over all the instances of weather in the month i and determine the number of riders during the rainfall level observed.
         for x in range(0, len(weatherMonths['date'])): 
             date = weatherMonths['date'][x] # date is now a datetime object, just for less writing
+
+            buff_less = datetime.timedelta(minutes = 15);
+            buff_over = buff_less
+            if x > 0:
+                buff_less = date - weatherMonths['date'][x-1]
             if x < (len(weatherMonths['date'])-1): # i.e., if we're not on the last element (because we access the next element)
-                buff = weatherMonths['date'][x+1] - date # create a buffer for the timeframe to view ridership
+                buff_over = weatherMonths['date'][x+1] - date # create a buffer for the timeframe to view ridership
 
             # Find all bikes in use during the timeframe.
-            bikesInUse = (ridMonths.loc[(ridMonths['Start date'] >= (date-buff)) & (ridMonths['End date'] < (date + buff))])
+            bikesInUse = (ridMonths.loc[(ridMonths['Start date'] >= (date-buff_less)) & (ridMonths['End date'] < (date + buff_over))])
             if len(bikesInUse) > max_:
                 max_ = len(bikesInUse)
             counts.append(len(bikesInUse)) # store the number of bikes in use during the timeframe
@@ -85,7 +90,7 @@ def plotObserved(riders, weather):
     plt.xlabel("Precipitation (m)")
     plt.xlim([-0.1,2]) 
     plt.ylim([-1, max_])
-    # plt.axis('tight') # This line will set the axis so that all data, and just all data, is shown. 
+    #plt.axis('tight') # This line will set the axis so that all data, and just all data, is shown. 
 
     # Show the plot.
     plt.show()
