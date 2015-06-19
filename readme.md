@@ -32,4 +32,6 @@
     casuals.index = casuals['Start date'] # index by Start time
     df_weatherObserved.index = df_weatherObserved['date']
     df_weatherSummary.index = df_weatherObserved['date']
+
+    plotObserved(casuals, df_weatherObserved)
 ```
