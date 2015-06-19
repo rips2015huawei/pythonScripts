@@ -34,7 +34,7 @@ def checkInt(i):
 def plotObserved(riders, weather):
 
     # First, convert the values stored from the JSON into float objects.
-    df_weatherObserved['precipm']=df_weatherObserved['precipm'].apply(checkInt) 
+    weather['precipm']= weather['precipm'].apply(checkInt) 
 
 
     fig = plt.figure() # to be used to plot the figure
@@ -49,8 +49,8 @@ def plotObserved(riders, weather):
     for i in range(1, 13):
 
         # First find all instances that belong to the month i.
-        casMonths = pd.DataFrame(casuals.loc[casuals.index.month == i]);
-        weatherMonths = df_weatherObserved.loc[df_weatherObserved.index.month == i]
+        ridMonths = pd.DataFrame(riders.loc[riders.index.month == i]);
+        weatherMonths = weather.loc[weather.index.month == i]
 
         
         xs.append(weatherMonths['precipm']) # store the rainfall (m) for the instances 
@@ -63,7 +63,7 @@ def plotObserved(riders, weather):
                 buff = weatherMonths['date'][x+1] - date # create a buffer for the timeframe to view ridership
 
             # Find all bikes in use during the timeframe.
-            bikesInUse = (casMonths.loc[(casMonths['Start date'] >= (date-buff)) & (casMonths['End date'] < (date + buff))])
+            bikesInUse = (ridMonths.loc[(ridMonths['Start date'] >= (date-buff)) & (ridMonths['End date'] < (date + buff))])
             if len(bikesInUse) > max_:
                 max_ = len(bikesInUse)
             counts.append(len(bikesInUse)) # store the number of bikes in use during the timeframe
@@ -75,7 +75,7 @@ def plotObserved(riders, weather):
     months = ['Jan', 'Feb', 'March', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'] # list of months
 
     # Plot the data, giving each set (corresponding to each month) a different color.
-    for x, y, c in zip(xs, ys, colors):
+    for x, y, c in zip(xs, ys, colors): # zip() puts all the data together. Nice for parallel iterations.
         scatters.append(plt.scatter(x, y, color = c))
 
     # Fix up the plot.
