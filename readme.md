@@ -14,7 +14,15 @@
     - instantiates and populates two dfs:
           + df\_weatherObserved ~ df of observed instances
           + df\_weatherSummary  ~ df of daily summaries  
-
+* plotCode.py
+    - Defines the function   plotObserved(df1, df2)
+        + PARAMETERS:
+            - df1: dataframe ASSUMED to be of same type as casuals OR registered from handleBikeshare
+            - df2: dataframe ASSUMED to be of same type as df\_weatherObserved or df\_weatherSummary
+        + PURPOSE:
+            - To output a plot of Ridership versus Rain (m).
+        + NOTES:
+            - Honestly just coded this up so I could mess around in the interactive shell. I put it up so one can see some plotting code. 
 ## In ipython Interactive Shell:
 ```
     %run ./handleBikeshare.py # reads in bikeshare data
