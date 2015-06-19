@@ -12,7 +12,7 @@
                          df_weatherSummary  ~ df of daily summaries  
 
 ## In ipython Interactive Shell:
-``
+```
     %run ./handleBikeshare.py # reads in bikeshare data
     %run ./readWeatherData.py # reads in weather data
 
@@ -20,4 +20,4 @@
     casuals.index = casuals['Start date'] # index by Start time
     df_weatherObserved.index = df_weatherObserved['date']
     df_weatherSummary.index = df_weatherObserved['date']
-``
+```
