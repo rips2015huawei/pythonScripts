@@ -68,20 +68,10 @@ print data.head()
 casuals = pd.DataFrame(data.loc[data[c7] == 'Casual'])
 registered = pd.DataFrame(data.loc[data[c7]=='Registered'])
 
-print'\n~~~~~~2014 data~~~~~~~~~~\n'
 
-print 'Casual Mean, Median Duration:'
-print casuals[c1].mean(), ' , ' ,casuals[c1].median()
-print ' w/ stdev and total count'
-print casuals[c1].std() , ' with ', len(casuals[c1]) , ' total people'
-print '\nRegistered Mean, Median Duration:'
-print registered[c1].mean(), ' , ', registered[c1].median()
-print ' w/ stdev:'
-print registered[c1].std(), ' with ', len(registered[c1]), 'total people'
-
-shortTrips = data.loc[data[c1] < 120]
-print "\n\n\n";
-print '\nShorter routes:\n'
-print shortTrips[c1].mean(), ' , ', shortTrips[c1].median()
-print ' w/ stdev: '
-print shortTrips[c1].std()
+print "\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
+print "\nYou now have three dataframes:\n"
+print "\n 1. data       ~ contains all data from bikeshare data\n"
+print "\n 2. casuals    ~ contains all data on casuals from data\n"
+print "\n 3. registered ~ contains all data on registered from data\n"
+print "\nCan run e.g. shortTrips = data.loc[data[c1] < 120]\nto get all trips less than 120 mins in duration."
