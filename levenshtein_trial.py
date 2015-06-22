@@ -34,20 +34,21 @@ def plotStations(riders):
         name = station.find('name').text
         stationNames.append(name)
 
-
+    i = 0;
 
     for x in stationNames:
+        i = i+1
      #   print x
-        name = x.split(' ');
-        if name[0] == "18th":
+        #name = x.split(' ');
+        #if name[0] == "18th":
+            #print x
+        if '-' in x:
             print x
-        if x == "New Hampshire Ave & T St NW":
-            print "found NH"
     #    stationNamesSplit.append(x.split(' & '))
     #for x in stationNamesSplit:
     #    print x
      
-
+    print i
 
     fig = plt.figure() # to be used to plot the figure
     
