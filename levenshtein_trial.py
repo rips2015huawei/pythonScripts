@@ -2,35 +2,34 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
-from matplotlib import gridspec
 import datetime
 import Levenshtein
+import glob
+import xml.etree.ElementTree as ET
+
+def plotStations(riders):
+
+    stationNames      = []
+    stationNamesSplit = []
+
+    tree = ET.parse('xml_files/bikeStations.xml')
+    root = tree.getroot()
+
+    for station in root.findall('station'):
+        name = station.find('name').text
+        stationNames.append(name)
 
 
-# FUNCTION: checkInit
-# PARAMETERS: str i
-# RETURNS: float object
-# PURPOSE: to change object type from str or (value) 'None' to a float.
+
+    for x in stationNames:
+        print x
+        stationNamesSplit.append(x.split(' & '))
+    for x in stationNamesSplit:
+        print x
+     
 
 
-
-# FUNCTION: plotObserved
-# PARAMETERS:
-#    * riders  -- dataframe assumed to be of riders
-#    >>deleting>>* listOfStations
-# RETURNS: nothing
-# PURPOSE: to output a plot of ridership versus rainfall.
-#
-# MISC: This method can clearly be improved. For one, can look up
-#       axes and subplots to see how to put them together on one
-#       figure. I just wanted a quick plot.
-#       Secondly, the function itself can be made more generic. It's
-#       clearly targeted for specific input. Again, just wanted to work
-#       in ipython quickly.
-def plotStations(riders)#, listOfStations):
-
-
-fig = plt.figure() # to be used to plot the figure
+    fig = plt.figure() # to be used to plot the figure
     
     max_ = 0 # will store max # of riders; to be used for limits on the plot
     
