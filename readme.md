@@ -1,5 +1,5 @@
 # Notes on pythonScripts
-
+## AS OF 10:55AM Jun22, found 2012Q4 Registered data was missing if you used the 'handlePython.' Re-running all plots :(.
 ## Abbreviations:
 * df(s) = dataframe(s)
 * wrt   = with respect to
