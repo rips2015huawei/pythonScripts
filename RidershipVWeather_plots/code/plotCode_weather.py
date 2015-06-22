@@ -84,12 +84,17 @@ def plotObserved(riders, weather):
         scatters.append(plt.scatter(x, y, color = c))
 
     # Fix up the plot.
+    x_max = 5
+    x_min = 0.1
+    y_max = 10000#max_
+    y_min = 0.1
+
     plt.legend(scatters, months)
     plt.title("Riders vs Rain, 2012 and 2014")
     plt.ylabel("Number of Riders")
     plt.xlabel("Precipitation (m)")
-    plt.xlim([-0.1,2]) 
-    plt.ylim([-1, max_])
+    plt.xlim([x_min,x_max]) 
+    plt.ylim([y_min, y_max])
     #plt.axis('tight') # This line will set the axis so that all data, and just all data, is shown. 
 
     # Show the plot.
