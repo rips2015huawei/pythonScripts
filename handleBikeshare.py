@@ -76,4 +76,4 @@ print "\n 2. casuals    ~ contains all data on casuals from data\n"
 print "\n 3. registered ~ contains all data on registered from data\n"
 print "\nCan run e.g. shortTrips = data.loc[data[c1] < 120]\nto get all trips less than 120 mins in duration.\n"
 print "\nCan also run e.g. casuals.index = Casuals['Start date'] to index casuals by start date.\n"
-print "\nColumn Listings, in order:" c1, ",", c2, ",", c3, ",", c4, ",", c5,",",c6,",",c7
+print "\nColumn Listings, in order:"+c1+ ","+ c2+ ","+ c3+","+ c4+ ","+ c5+","+c6+","+c7
