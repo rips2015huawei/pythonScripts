@@ -5,6 +5,8 @@
 * wrt   = with respect to
 
 ## Directories:
+* RidershipVWeather\_plots
+    - contains the folders code and plots, which contain the plotting code and the img files, respectively.
 * SystemData
     - contains the Capital Bikeshare Data for years 2012 and 2014
 * shapeFiles
@@ -23,7 +25,7 @@
         + Capital Bikeshare station info in xml
         + read\_bikeshare\_xml.py -- python script run to read in xml data with python
 
-## (Somewhat) Useful Files in this Directory:
+## (Somewhat) Useful Files:
 * handleBikeshare.py  
     - reads in the Capital Bikeshare data
     - instantiates and fills two dataframes
@@ -34,7 +36,7 @@
     - instantiates and populates two dfs:
           + df\_weatherObserved ~ df of observed instances
           + df\_weatherSummary  ~ df of daily summaries  
-* plotCode.py
+* RidershipVWeather\_plots/code/plotCode.py
     - Defines the function   plotObserved(df1, df2)
         + PARAMETERS:
             - df1: dataframe ASSUMED to be of same type as casuals OR registered from handleBikeshare
