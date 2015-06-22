@@ -7,13 +7,28 @@ import Levenshtein
 import glob
 import xml.etree.ElementTree as ET
 
+
+def checkDataForPeriods(s):
+    if '.' in s:
+        print 'Found .'
+        return s.replace('.','')
+
+
+
 def plotStations(riders):
+
+    col1 = 'Start Station'
+    col2 = 'End Station'
 
     stationNames      = []
     stationNamesSplit = []
 
     tree = ET.parse('xml_files/bikeStations.xml')
     root = tree.getroot()
+
+    #riders[col1] = riders[col1].apply(checkDataForPeriods)
+    #riders[col2] = riders[col2].apply(checkDataForPeriods)
+
 
     for station in root.findall('station'):
         name = station.find('name').text
@@ -22,10 +37,15 @@ def plotStations(riders):
 
 
     for x in stationNames:
-        print x
-        stationNamesSplit.append(x.split(' & '))
-    for x in stationNamesSplit:
-        print x
+     #   print x
+        name = x.split(' ');
+        if name[0] == "18th":
+            print x
+        if x == "New Hampshire Ave & T St NW":
+            print "found NH"
+    #    stationNamesSplit.append(x.split(' & '))
+    #for x in stationNamesSplit:
+    #    print x
      
 
 
