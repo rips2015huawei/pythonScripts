@@ -1,0 +1,2182 @@
+[
+  {
+    "lat": "38.8561", 
+    "lon": "-77.0512", 
+    "id": "1", 
+    "name": "20th & Bell St"
+  }, 
+  {
+    "lat": "38.85725", 
+    "lon": "-77.05332", 
+    "id": "2", 
+    "name": "18th & Eads St."
+  }, 
+  {
+    "lat": "38.8564", 
+    "lon": "-77.0492", 
+    "id": "3", 
+    "name": "20th & Crystal Dr"
+  }, 
+  {
+    "lat": "38.86017", 
+    "lon": "-77.049593", 
+    "id": "4", 
+    "name": "15th & Crystal Dr"
+  }, 
+  {
+    "lat": "38.857866", 
+    "lon": "-77.05949", 
+    "id": "5", 
+    "name": "Aurora Hills Community Ctr/18th & Hayes St"
+  }, 
+  {
+    "lat": "38.862303", 
+    "lon": "-77.059936", 
+    "id": "6", 
+    "name": "Pentagon City Metro / 12th & S Hayes St"
+  }, 
+  {
+    "lat": "38.8637", 
+    "lon": "-77.0633", 
+    "id": "7", 
+    "name": "S Joyce & Army Navy Dr"
+  }, 
+  {
+    "lat": "38.8573", 
+    "lon": "-77.0511", 
+    "id": "8", 
+    "name": "Crystal City Metro / 18th & Bell St"
+  }, 
+  {
+    "lat": "38.8629", 
+    "lon": "-77.0528", 
+    "id": "9", 
+    "name": "12th & Army Navy Dr"
+  }, 
+  {
+    "lat": "38.848441", 
+    "lon": "-77.051516", 
+    "id": "10", 
+    "name": "27th & Crystal Dr"
+  }, 
+  {
+    "lat": "38.8426", 
+    "lon": "-77.0502", 
+    "id": "11", 
+    "name": "S Glebe & Potomac Ave"
+  }, 
+  {
+    "lat": "38.8533", 
+    "lon": "-77.0498", 
+    "id": "12", 
+    "name": "23rd & Crystal Dr"
+  }, 
+  {
+    "lat": "38.850688", 
+    "lon": "-77.05152", 
+    "id": "13", 
+    "name": "26th & S Clark St"
+  }, 
+  {
+    "lat": "38.9003", 
+    "lon": "-77.0429", 
+    "id": "14", 
+    "name": "19th St & Pennsylvania Ave NW"
+  }, 
+  {
+    "lat": "38.9176", 
+    "lon": "-77.0321", 
+    "id": "15", 
+    "name": "14th & V St NW"
+  }, 
+  {
+    "lat": "38.929464", 
+    "lon": "-77.027822", 
+    "id": "16", 
+    "name": "11th & Kenyon St NW"
+  }, 
+  {
+    "lat": "38.926088", 
+    "lon": "-77.036536", 
+    "id": "17", 
+    "name": "16th & Harvard St NW"
+  }, 
+  {
+    "lat": "38.922925", 
+    "lon": "-77.042581", 
+    "id": "18", 
+    "name": "Adams Mill & Columbia Rd NW"
+  }, 
+  {
+    "lat": "38.9268", 
+    "lon": "-77.0322", 
+    "id": "19", 
+    "name": "14th & Harvard St NW"
+  }, 
+  {
+    "lat": "38.923203", 
+    "lon": "-77.047637", 
+    "id": "20", 
+    "name": "Calvert & Biltmore St NW"
+  }, 
+  {
+    "lat": "38.9319", 
+    "lon": "-77.0388", 
+    "id": "21", 
+    "name": "Lamont & Mt Pleasant NW"
+  }, 
+  {
+    "lat": "38.8767", 
+    "lon": "-77.0178", 
+    "id": "22", 
+    "name": "4th & M St SW"
+  }, 
+  {
+    "lat": "38.90985", 
+    "lon": "-77.034438", 
+    "id": "23", 
+    "name": "15th & P St NW"
+  }, 
+  {
+    "lat": "38.912682", 
+    "lon": "-77.031681", 
+    "id": "24", 
+    "name": "14th & R St NW"
+  }, 
+  {
+    "lat": "38.9086", 
+    "lon": "-77.0323", 
+    "id": "25", 
+    "name": "14th & Rhode Island Ave NW"
+  }, 
+  {
+    "lat": "38.8963", 
+    "lon": "-77.045", 
+    "id": "26", 
+    "name": "20th & E St NW"
+  }, 
+  {
+    "lat": "38.9008", 
+    "lon": "-77.047", 
+    "id": "27", 
+    "name": "21st & I St NW"
+  }, 
+  {
+    "lat": "38.936043", 
+    "lon": "-77.024649", 
+    "id": "28", 
+    "name": "Georgia & New Hampshire Ave NW"
+  }, 
+  {
+    "lat": "38.9375", 
+    "lon": "-77.0328", 
+    "id": "29", 
+    "name": "14th St & Spring Rd NW"
+  }, 
+  {
+    "lat": "38.9346", 
+    "lon": "-76.9955", 
+    "id": "30", 
+    "name": "John McCormack Dr & Michigan Ave NE"
+  }, 
+  {
+    "lat": "38.90304", 
+    "lon": "-77.019027", 
+    "id": "31", 
+    "name": "5th & K St NW"
+  }, 
+  {
+    "lat": "38.8896", 
+    "lon": "-76.9769", 
+    "id": "32", 
+    "name": "19th & East Capitol St SE"
+  }, 
+  {
+    "lat": "38.9308", 
+    "lon": "-77.0315", 
+    "id": "33", 
+    "name": "Park Rd & Holmead Pl NW"
+  }, 
+  {
+    "lat": "38.8601", 
+    "lon": "-76.9672", 
+    "id": "34", 
+    "name": "Good Hope & Naylor Rd SE"
+  }, 
+  {
+    "lat": "38.934267", 
+    "lon": "-77.057979", 
+    "id": "35", 
+    "name": "Connecticut Ave & Newark St NW / Cleveland Park"
+  }, 
+  {
+    "lat": "38.878", 
+    "lon": "-76.9607", 
+    "id": "36", 
+    "name": "Randle Circle & Minnesota Ave SE"
+  }, 
+  {
+    "lat": "38.897063", 
+    "lon": "-76.947446", 
+    "id": "37", 
+    "name": "Minnesota Ave Metro/DOES"
+  }, 
+  {
+    "lat": "38.901385", 
+    "lon": "-76.941877", 
+    "id": "38", 
+    "name": "Nannie Helen Burroughs & Minnesota Ave NE"
+  }, 
+  {
+    "lat": "38.862669", 
+    "lon": "-76.994637", 
+    "id": "39", 
+    "name": "Anacostia Metro"
+  }, 
+  {
+    "lat": "38.867373", 
+    "lon": "-76.988039", 
+    "id": "40", 
+    "name": "Good Hope Rd & MLK Ave SE"
+  }, 
+  {
+    "lat": "38.8952", 
+    "lon": "-77.0436", 
+    "id": "41", 
+    "name": "19th & E Street NW"
+  }, 
+  {
+    "lat": "38.919077", 
+    "lon": "-77.000648", 
+    "id": "42", 
+    "name": "4th & W St NE"
+  }, 
+  {
+    "lat": "38.9172", 
+    "lon": "-77.0259", 
+    "id": "43", 
+    "name": "10th & U St NW"
+  }, 
+  {
+    "lat": "38.9249", 
+    "lon": "-77.0222", 
+    "id": "44", 
+    "name": "Georgia Ave and Fairmont St NW"
+  }, 
+  {
+    "lat": "38.8743", 
+    "lon": "-77.0057", 
+    "id": "45", 
+    "name": "1st & N St  SE"
+  }, 
+  {
+    "lat": "38.9154", 
+    "lon": "-77.0446", 
+    "id": "46", 
+    "name": "20th St & Florida Ave NW"
+  }, 
+  {
+    "lat": "38.9155", 
+    "lon": "-77.0222", 
+    "id": "47", 
+    "name": "7th & T St NW"
+  }, 
+  {
+    "lat": "38.853531", 
+    "lon": "-77.053509", 
+    "id": "48", 
+    "name": "23rd & Eads St"
+  }, 
+  {
+    "lat": "38.8763", 
+    "lon": "-77.0037", 
+    "id": "49", 
+    "name": "M St & New Jersey Ave SE"
+  }, 
+  {
+    "lat": "38.9101", 
+    "lon": "-77.0444", 
+    "id": "51", 
+    "name": "Massachusetts Ave & Dupont Circle NW"
+  }, 
+  {
+    "lat": "38.9057", 
+    "lon": "-77.0056", 
+    "id": "52", 
+    "name": "1st & M St NE"
+  }, 
+  {
+    "lat": "38.90534", 
+    "lon": "-77.046774", 
+    "id": "53", 
+    "name": "21st & M St NW"
+  }, 
+  {
+    "lat": "38.90276", 
+    "lon": "-77.03863", 
+    "id": "54", 
+    "name": "17th & K St NW"
+  }, 
+  {
+    "lat": "38.899408", 
+    "lon": "-77.015289", 
+    "id": "55", 
+    "name": "3rd & H St NW"
+  }, 
+  {
+    "lat": "38.8851", 
+    "lon": "-77.0023", 
+    "id": "56", 
+    "name": "3rd & D St SE"
+  }, 
+  {
+    "lat": "38.8803", 
+    "lon": "-76.9862", 
+    "id": "57", 
+    "name": "Potomac & Pennsylvania Ave SE"
+  }, 
+  {
+    "lat": "38.884", 
+    "lon": "-76.9861", 
+    "id": "58", 
+    "name": "14th & D St SE"
+  }, 
+  {
+    "lat": "38.9121", 
+    "lon": "-77.0387", 
+    "id": "59", 
+    "name": "17th & Corcoran St NW"
+  }, 
+  {
+    "lat": "38.944551", 
+    "lon": "-77.063896", 
+    "id": "60", 
+    "name": "Van Ness Metro / UDC"
+  }, 
+  {
+    "lat": "38.9126", 
+    "lon": "-77.0135", 
+    "id": "61", 
+    "name": "Florida Ave & R St NW"
+  }, 
+  {
+    "lat": "38.8792", 
+    "lon": "-76.9953", 
+    "id": "62", 
+    "name": "8th & Eye St SE / Barracks Row"
+  }, 
+  {
+    "lat": "38.938736", 
+    "lon": "-77.087171", 
+    "id": "63", 
+    "name": "Ward Circle / American University"
+  }, 
+  {
+    "lat": "38.934881", 
+    "lon": "-77.072755", 
+    "id": "64", 
+    "name": "Wisconsin Ave & Newark St NW"
+  }, 
+  {
+    "lat": "38.947774", 
+    "lon": "-77.032818", 
+    "id": "65", 
+    "name": "14th St Heights / 14th & Crittenden St NW"
+  }, 
+  {
+    "lat": "38.865784", 
+    "lon": "-76.9784", 
+    "id": "66", 
+    "name": "Anacostia Library"
+  }, 
+  {
+    "lat": "38.873057", 
+    "lon": "-76.971015", 
+    "id": "67", 
+    "name": "Pennsylvania & Minnesota Ave SE"
+  }, 
+  {
+    "lat": "38.886952", 
+    "lon": "-76.996806", 
+    "id": "68", 
+    "name": "Eastern Market / 7th & North Carolina Ave SE"
+  }, 
+  {
+    "lat": "38.899632", 
+    "lon": "-77.031686", 
+    "id": "69", 
+    "name": "14th St & New York Ave NW"
+  }, 
+  {
+    "lat": "38.894", 
+    "lon": "-76.947974", 
+    "id": "70", 
+    "name": "Benning Branch Library"
+  }, 
+  {
+    "lat": "38.887237", 
+    "lon": "-77.028226", 
+    "id": "71", 
+    "name": "USDA / 12th & Independence Ave SW"
+  }, 
+  {
+    "lat": "38.9022212", 
+    "lon": "-77.059219", 
+    "id": "72", 
+    "name": "Georgetown Harbor / 30th St NW"
+  }, 
+  {
+    "lat": "38.933668", 
+    "lon": "-76.991016", 
+    "id": "73", 
+    "name": "12th & Newton St NE"
+  }, 
+  {
+    "lat": "38.894919", 
+    "lon": "-77.046587", 
+    "id": "74", 
+    "name": "US Dept of State / Virginia Ave & 21st St NW"
+  }, 
+  {
+    "lat": "38.886266", 
+    "lon": "-77.022241", 
+    "id": "75", 
+    "name": "L'Enfant Plaza / 7th & C St SW"
+  }, 
+  {
+    "lat": "38.893028", 
+    "lon": "-77.026013", 
+    "id": "76", 
+    "name": "10th St & Constitution Ave NW"
+  }, 
+  {
+    "lat": "38.895184", 
+    "lon": "-77.054845", 
+    "id": "77", 
+    "name": "Kennedy Center"
+  }, 
+  {
+    "lat": "38.884", 
+    "lon": "-76.995397", 
+    "id": "78", 
+    "name": "Eastern Market Metro / Pennsylvania Ave & 7th St SE"
+  }, 
+  {
+    "lat": "38.904742", 
+    "lon": "-77.041606", 
+    "id": "79", 
+    "name": "18th & M St NW"
+  }, 
+  {
+    "lat": "38.947607", 
+    "lon": "-77.079382", 
+    "id": "80", 
+    "name": "Tenleytown / Wisconsin Ave & Albemarle St NW"
+  }, 
+  {
+    "lat": "38.9003", 
+    "lon": "-76.9882", 
+    "id": "81", 
+    "name": "13th & H St NE"
+  }, 
+  {
+    "lat": "38.897222", 
+    "lon": "-77.019347", 
+    "id": "82", 
+    "name": "5th & F St NW"
+  }, 
+  {
+    "lat": "38.8991", 
+    "lon": "-77.0337", 
+    "id": "83", 
+    "name": "New York Ave & 15th St NW"
+  }, 
+  {
+    "lat": "38.90572", 
+    "lon": "-77.022264", 
+    "id": "84", 
+    "name": "Convention Center / 7th & M St NW"
+  }, 
+  {
+    "lat": "38.927872", 
+    "lon": "-77.043358", 
+    "id": "85", 
+    "name": "Harvard St & Adams Mill Rd NW"
+  }, 
+  {
+    "lat": "38.903407", 
+    "lon": "-77.043648", 
+    "id": "86", 
+    "name": "19th & L St NW"
+  }, 
+  {
+    "lat": "38.90375", 
+    "lon": "-77.06269", 
+    "id": "87", 
+    "name": "C & O Canal & Wisconsin Ave NW"
+  }, 
+  {
+    "lat": "38.87675", 
+    "lon": "-77.02127", 
+    "id": "88", 
+    "name": "6th & Water St SW / SW Waterfront"
+  }, 
+  {
+    "lat": "38.894758", 
+    "lon": "-76.997114", 
+    "id": "89", 
+    "name": "D St & Maryland Ave NE"
+  }, 
+  {
+    "lat": "38.916442", 
+    "lon": "-77.0682", 
+    "id": "90", 
+    "name": "34th St & Wisconsin Ave NW"
+  }, 
+  {
+    "lat": "38.900283", 
+    "lon": "-77.029822", 
+    "id": "91", 
+    "name": "13th St & New York Ave NW"
+  }, 
+  {
+    "lat": "38.8997", 
+    "lon": "-77.023086", 
+    "id": "92", 
+    "name": "8th & H St NW"
+  }, 
+  {
+    "lat": "38.932514", 
+    "lon": "-76.992889", 
+    "id": "93", 
+    "name": "10th & Monroe St NE"
+  }, 
+  {
+    "lat": "38.910972", 
+    "lon": "-77.00495", 
+    "id": "94", 
+    "name": "Eckington Pl & Q St NE"
+  }, 
+  {
+    "lat": "38.899972", 
+    "lon": "-76.998347", 
+    "id": "95", 
+    "name": "6th & H St NE"
+  }, 
+  {
+    "lat": "38.900412", 
+    "lon": "-77.001949", 
+    "id": "96", 
+    "name": "3rd & H St NE"
+  }, 
+  {
+    "lat": "38.900413", 
+    "lon": "-76.982872", 
+    "id": "97", 
+    "name": "Bladensburg Rd & Benning Rd NE"
+  }, 
+  {
+    "lat": "38.889955", 
+    "lon": "-77.000349", 
+    "id": "98", 
+    "name": "4th & East Capitol St NE"
+  }, 
+  {
+    "lat": "38.890461", 
+    "lon": "-76.988355", 
+    "id": "99", 
+    "name": "Lincoln Park / 13th & East Capitol St NE"
+  }, 
+  {
+    "lat": "38.8692", 
+    "lon": "-76.9599", 
+    "id": "100", 
+    "name": "Branch & Pennsylvania Ave SE"
+  }, 
+  {
+    "lat": "38.894832", 
+    "lon": "-76.987633", 
+    "id": "101", 
+    "name": "13th & D St NE"
+  }, 
+  {
+    "lat": "38.91554", 
+    "lon": "-77.03818", 
+    "id": "102", 
+    "name": "New Hampshire Ave & T St NW"
+  }, 
+  {
+    "lat": "38.898364", 
+    "lon": "-77.027869", 
+    "id": "103", 
+    "name": "Metro Center / 12th & G St NW"
+  }, 
+  {
+    "lat": "38.894514", 
+    "lon": "-77.031617", 
+    "id": "104", 
+    "name": "14th & D St NW / Ronald Reagan Building"
+  }, 
+  {
+    "lat": "38.897324", 
+    "lon": "-77.022322", 
+    "id": "105", 
+    "name": "7th & F St NW / National Portrait Gallery"
+  }, 
+  {
+    "lat": "38.902061", 
+    "lon": "-77.038322", 
+    "id": "106", 
+    "name": "17th & K St NW / Farragut Square"
+  }, 
+  {
+    "lat": "38.908905", 
+    "lon": "-77.04478", 
+    "id": "107", 
+    "name": "20th & O St NW / Dupont South"
+  }, 
+  {
+    "lat": "38.895344", 
+    "lon": "-77.016106", 
+    "id": "108", 
+    "name": "4th & D St NW / Judiciary Square"
+  }, 
+  {
+    "lat": "38.8923", 
+    "lon": "-77.0436", 
+    "id": "109", 
+    "name": "19th St & Constitution Ave NW"
+  }, 
+  {
+    "lat": "38.90774", 
+    "lon": "-77.071652", 
+    "id": "110", 
+    "name": "37th & O St NW / Georgetown University"
+  }, 
+  {
+    "lat": "38.899983", 
+    "lon": "-76.991383", 
+    "id": "111", 
+    "name": "11th & H St NE"
+  }, 
+  {
+    "lat": "38.903827", 
+    "lon": "-77.053485", 
+    "id": "112", 
+    "name": "25th St & Pennsylvania Ave NW"
+  }, 
+  {
+    "lat": "38.89696", 
+    "lon": "-77.00493", 
+    "id": "113", 
+    "name": "Columbus Circle / Union Station"
+  }, 
+  {
+    "lat": "38.897446", 
+    "lon": "-77.009888", 
+    "id": "114", 
+    "name": "North Capitol St & F St NW"
+  }, 
+  {
+    "lat": "38.905607", 
+    "lon": "-77.027137", 
+    "id": "115", 
+    "name": "11th & M St NW"
+  }, 
+  {
+    "lat": "38.922581", 
+    "lon": "-77.070334", 
+    "id": "116", 
+    "name": "36th & Calvert St NW / Glover Park"
+  }, 
+  {
+    "lat": "38.898069", 
+    "lon": "-77.031823", 
+    "id": "117", 
+    "name": "14th & G St NW"
+  }, 
+  {
+    "lat": "38.844015", 
+    "lon": "-77.050537", 
+    "id": "118", 
+    "name": "Potomac Ave & 35th St S"
+  }, 
+  {
+    "lat": "38.88412", 
+    "lon": "-77.04657", 
+    "id": "124", 
+    "name": "Ohio Dr & West Basin Dr SW / MLK & FDR Memorials"
+  }, 
+  {
+    "lat": "38.897857", 
+    "lon": "-77.026975", 
+    "id": "125", 
+    "name": "11th & F St NW"
+  }, 
+  {
+    "lat": "38.896104", 
+    "lon": "-77.049882", 
+    "id": "126", 
+    "name": "23rd & E St NW"
+  }, 
+  {
+    "lat": "38.897315", 
+    "lon": "-77.070993", 
+    "id": "127", 
+    "name": "Lynn & 19th St North"
+  }, 
+  {
+    "lat": "38.8946", 
+    "lon": "-77.072305", 
+    "id": "128", 
+    "name": "Rosslyn Metro / Wilson Blvd & Ft Myer Dr"
+  }, 
+  {
+    "lat": "38.893648", 
+    "lon": "-77.076701", 
+    "id": "129", 
+    "name": "Clarendon Blvd & Pierce St"
+  }, 
+  {
+    "lat": "38.891696", 
+    "lon": "-77.0846", 
+    "id": "130", 
+    "name": "Wilson Blvd & N Uhle St"
+  }, 
+  {
+    "lat": "38.892164", 
+    "lon": "-77.079375", 
+    "id": "131", 
+    "name": "N Rhodes & 16th St N"
+  }, 
+  {
+    "lat": "38.86559", 
+    "lon": "-76.952103", 
+    "id": "132", 
+    "name": "Fairfax Village"
+  }, 
+  {
+    "lat": "38.892459", 
+    "lon": "-77.046567", 
+    "id": "133", 
+    "name": "21st St & Constitution Ave NW"
+  }, 
+  {
+    "lat": "38.889", 
+    "lon": "-77.0925", 
+    "id": "134", 
+    "name": "Wilson Blvd & N Edgewood St"
+  }, 
+  {
+    "lat": "38.920669", 
+    "lon": "-77.04368", 
+    "id": "135", 
+    "name": "Columbia Rd & Belmont St NW"
+  }, 
+  {
+    "lat": "38.906602", 
+    "lon": "-77.038785", 
+    "id": "136", 
+    "name": "17th & Rhode Island Ave NW"
+  }, 
+  {
+    "lat": "38.9059", 
+    "lon": "-77.0325", 
+    "id": "137", 
+    "name": "Thomas Circle"
+  }, 
+  {
+    "lat": "38.8904", 
+    "lon": "-77.0889", 
+    "id": "138", 
+    "name": "Wilson Blvd & Franklin Rd"
+  }, 
+  {
+    "lat": "38.8881", 
+    "lon": "-77.09308", 
+    "id": "139", 
+    "name": "Clarendon Blvd & N Fillmore St"
+  }, 
+  {
+    "lat": "38.88786", 
+    "lon": "-77.094875", 
+    "id": "140", 
+    "name": "Clarendon Metro / Wilson Blvd & N Highland St"
+  }, 
+  {
+    "lat": "38.89968", 
+    "lon": "-77.041539", 
+    "id": "141", 
+    "name": "18th St & Pennsylvania Ave NW"
+  }, 
+  {
+    "lat": "38.887299", 
+    "lon": "-77.018939", 
+    "id": "142", 
+    "name": "Maryland & Independence Ave SW"
+  }, 
+  {
+    "lat": "38.88412", 
+    "lon": "-77.017445", 
+    "id": "143", 
+    "name": "4th & E St SW"
+  }, 
+  {
+    "lat": "38.881185", 
+    "lon": "-77.001828", 
+    "id": "144", 
+    "name": "3rd & G St SE"
+  }, 
+  {
+    "lat": "38.912719", 
+    "lon": "-77.022155", 
+    "id": "145", 
+    "name": "7th & R St NW / Shaw Library"
+  }, 
+  {
+    "lat": "38.9418", 
+    "lon": "-77.0251", 
+    "id": "146", 
+    "name": "9th & Upshur St NW"
+  }, 
+  {
+    "lat": "38.915417", 
+    "lon": "-77.012289", 
+    "id": "147", 
+    "name": "1st & Rhode Island Ave NW"
+  }, 
+  {
+    "lat": "38.928156", 
+    "lon": "-77.02344", 
+    "id": "148", 
+    "name": "Columbia Rd & Georgia Ave NW"
+  }, 
+  {
+    "lat": "38.917761", 
+    "lon": "-77.04062", 
+    "id": "149", 
+    "name": "California St & Florida Ave NW"
+  }, 
+  {
+    "lat": "38.889935", 
+    "lon": "-76.93723", 
+    "id": "150", 
+    "name": "Benning Rd & East Capitol St NE / Benning Rd Metro"
+  }, 
+  {
+    "lat": "38.930282", 
+    "lon": "-77.055599", 
+    "id": "151", 
+    "name": "3000 Connecticut Ave NW / National Zoo"
+  }, 
+  {
+    "lat": "38.896544", 
+    "lon": "-76.96012", 
+    "id": "152", 
+    "name": "Anacostia Ave & Benning Rd NE / River Terrace"
+  }, 
+  {
+    "lat": "38.905126", 
+    "lon": "-77.056887", 
+    "id": "153", 
+    "name": "M St & Pennsylvania Ave NW"
+  }, 
+  {
+    "lat": "38.88732", 
+    "lon": "-76.983569", 
+    "id": "154", 
+    "name": "15th St & Massachusetts Ave SE"
+  }, 
+  {
+    "lat": "38.844711", 
+    "lon": "-76.987823", 
+    "id": "155", 
+    "name": "Congress Heights Metro"
+  }, 
+  {
+    "lat": "38.876393", 
+    "lon": "-77.107735", 
+    "id": "156", 
+    "name": "N Quincy St & Glebe Rd"
+  }, 
+  {
+    "lat": "38.8815", 
+    "lon": "-77.10396", 
+    "id": "157", 
+    "name": "Wilson Blvd & N Oakland St"
+  }, 
+  {
+    "lat": "38.896923", 
+    "lon": "-77.086502", 
+    "id": "158", 
+    "name": "N Veitch  & 20th St N"
+  }, 
+  {
+    "lat": "38.90268", 
+    "lon": "-77.02674", 
+    "id": "159", 
+    "name": "11th & K St NW"
+  }, 
+  {
+    "lat": "38.885801", 
+    "lon": "-77.097745", 
+    "id": "160", 
+    "name": "Fairfax Dr & Wilson Blvd"
+  }, 
+  {
+    "lat": "38.896015", 
+    "lon": "-77.078107", 
+    "id": "161", 
+    "name": "Key Blvd & N Quinn St"
+  }, 
+  {
+    "lat": "38.87861", 
+    "lon": "-77.006004", 
+    "id": "162", 
+    "name": "1st & K St SE"
+  }, 
+  {
+    "lat": "38.922649", 
+    "lon": "-77.077271", 
+    "id": "163", 
+    "name": "39th & Calvert St NW / Stoddert"
+  }, 
+  {
+    "lat": "38.928743", 
+    "lon": "-77.012457", 
+    "id": "164", 
+    "name": "1st & Washington Hospital Center NW"
+  }, 
+  {
+    "lat": "38.882788", 
+    "lon": "-77.103148", 
+    "id": "165", 
+    "name": "Virginia Square Metro / N Monroe St & 9th St N"
+  }, 
+  {
+    "lat": "38.88397", 
+    "lon": "-77.10783", 
+    "id": "166", 
+    "name": "Central Library / N Quincy St & 10th St N"
+  }, 
+  {
+    "lat": "38.884734", 
+    "lon": "-77.093485", 
+    "id": "167", 
+    "name": "Washington Blvd & 10th St N"
+  }, 
+  {
+    "lat": "38.888553", 
+    "lon": "-77.032429", 
+    "id": "168", 
+    "name": "Jefferson Dr & 14th St SW"
+  }, 
+  {
+    "lat": "38.888767", 
+    "lon": "-77.02858", 
+    "id": "169", 
+    "name": "Smithsonian / Jefferson Dr & 12th St SW"
+  }, 
+  {
+    "lat": "38.87887", 
+    "lon": "-77.1207", 
+    "id": "170", 
+    "name": "George Mason Dr & Wilson Blvd"
+  }, 
+  {
+    "lat": "38.894573", 
+    "lon": "-77.01994", 
+    "id": "171", 
+    "name": "6th St & Indiana Ave NW"
+  }, 
+  {
+    "lat": "38.893241", 
+    "lon": "-77.086045", 
+    "id": "172", 
+    "name": "N Veitch & Key Blvd"
+  }, 
+  {
+    "lat": "38.89593", 
+    "lon": "-77.089006", 
+    "id": "173", 
+    "name": "N Adams St & Lee Hwy"
+  }, 
+  {
+    "lat": "38.89054", 
+    "lon": "-77.08095", 
+    "id": "174", 
+    "name": "15th & N Scott St"
+  }, 
+  {
+    "lat": "38.880834", 
+    "lon": "-77.091129", 
+    "id": "175", 
+    "name": "Washington Blvd & 7th St N"
+  }, 
+  {
+    "lat": "38.881044", 
+    "lon": "-77.111768", 
+    "id": "176", 
+    "name": "Ballston Metro / N Stuart & 9th St N"
+  }, 
+  {
+    "lat": "38.882629", 
+    "lon": "-77.109366", 
+    "id": "177", 
+    "name": "N Randolph St & Fairfax Dr"
+  }, 
+  {
+    "lat": "38.879819", 
+    "lon": "-77.037413", 
+    "id": "178", 
+    "name": "Jefferson Memorial"
+  }, 
+  {
+    "lat": "38.866611", 
+    "lon": "-76.985238", 
+    "id": "179", 
+    "name": "Good Hope Rd & 14th St SE"
+  }, 
+  {
+    "lat": "38.883921", 
+    "lon": "-77.116817", 
+    "id": "180", 
+    "name": "Glebe Rd & 11th St N"
+  }, 
+  {
+    "lat": "38.880151", 
+    "lon": "-77.107673", 
+    "id": "181", 
+    "name": "N Quincy St & Wilson Blvd"
+  }, 
+  {
+    "lat": "38.884616", 
+    "lon": "-77.10108", 
+    "id": "182", 
+    "name": "Fairfax Dr & Kenmore St"
+  }, 
+  {
+    "lat": "38.90509", 
+    "lon": "-76.9941", 
+    "id": "183", 
+    "name": "Gallaudet / 8th St & Florida Ave NE"
+  }, 
+  {
+    "lat": "38.903584", 
+    "lon": "-77.044789", 
+    "id": "185", 
+    "name": "20th & L St NW"
+  }, 
+  {
+    "lat": "38.903819", 
+    "lon": "-77.0284", 
+    "id": "186", 
+    "name": "12th & L St NW"
+  }, 
+  {
+    "lat": "38.901539", 
+    "lon": "-77.046564", 
+    "id": "187", 
+    "name": "21st St & Pennsylvania Ave NW"
+  }, 
+  {
+    "lat": "38.902204", 
+    "lon": "-77.04337", 
+    "id": "188", 
+    "name": "19th & K St NW"
+  }, 
+  {
+    "lat": "38.803124", 
+    "lon": "-77.040363", 
+    "id": "189", 
+    "name": "Prince St & Union St"
+  }, 
+  {
+    "lat": "38.804718", 
+    "lon": "-77.043363", 
+    "id": "190", 
+    "name": "Market Square / King St & Royal St"
+  }, 
+  {
+    "lat": "38.810743", 
+    "lon": "-77.044664", 
+    "id": "191", 
+    "name": "Saint Asaph St & Pendleton  St"
+  }, 
+  {
+    "lat": "38.805317", 
+    "lon": "-77.049883", 
+    "id": "192", 
+    "name": "King St & Patrick St"
+  }, 
+  {
+    "lat": "38.902", 
+    "lon": "-77.03353", 
+    "id": "193", 
+    "name": "15th & K St NW"
+  }, 
+  {
+    "lat": "38.805648", 
+    "lon": "-77.05293", 
+    "id": "194", 
+    "name": "Commerce St & Fayette St"
+  }, 
+  {
+    "lat": "38.811456", 
+    "lon": "-77.050276", 
+    "id": "195", 
+    "name": "Henry St & Pendleton St"
+  }, 
+  {
+    "lat": "38.814577", 
+    "lon": "-77.052808", 
+    "id": "196", 
+    "name": "Braddock Rd Metro"
+  }, 
+  {
+    "lat": "38.805767", 
+    "lon": "-77.06072", 
+    "id": "197", 
+    "name": "King St Metro"
+  }, 
+  {
+    "lat": "38.9066", 
+    "lon": "-77.05152", 
+    "id": "198", 
+    "name": "24th & N St NW"
+  }, 
+  {
+    "lat": "38.895914", 
+    "lon": "-77.026064", 
+    "id": "199", 
+    "name": "10th & E St NW"
+  }, 
+  {
+    "lat": "38.90088", 
+    "lon": "-77.048911", 
+    "id": "200", 
+    "name": "22nd & I St NW / Foggy Bottom"
+  }, 
+  {
+    "lat": "38.883669", 
+    "lon": "-77.113905", 
+    "id": "201", 
+    "name": "Utah St & 11th St N"
+  }, 
+  {
+    "lat": "38.884961", 
+    "lon": "-77.08777", 
+    "id": "202", 
+    "name": "Barton St & 10th St N"
+  }, 
+  {
+    "lat": "38.889365", 
+    "lon": "-77.077294", 
+    "id": "203", 
+    "name": "Arlington Blvd & N Queen St"
+  }, 
+  {
+    "lat": "38.888251", 
+    "lon": "-77.049426", 
+    "id": "204", 
+    "name": "Lincoln Memorial"
+  }, 
+  {
+    "lat": "38.894722", 
+    "lon": "-77.045128", 
+    "id": "206", 
+    "name": "20th St & Virginia Ave NW"
+  }, 
+  {
+    "lat": "38.90093", 
+    "lon": "-77.018677", 
+    "id": "207", 
+    "name": "5th St & Massachusetts Ave NW"
+  }, 
+  {
+    "lat": "38.943837", 
+    "lon": "-77.077078", 
+    "id": "208", 
+    "name": "39th & Veazey St NW"
+  }, 
+  {
+    "lat": "38.954812", 
+    "lon": "-77.082426", 
+    "id": "209", 
+    "name": "Fessenden St & Wisconsin Ave NW"
+  }, 
+  {
+    "lat": "38.905707", 
+    "lon": "-77.003041", 
+    "id": "210", 
+    "name": "M St & Delaware Ave NE"
+  }, 
+  {
+    "lat": "38.863833", 
+    "lon": "-77.080319", 
+    "id": "211", 
+    "name": "Columbia Pike & S Courthouse Rd"
+  }, 
+  {
+    "lat": "38.857803", 
+    "lon": "-77.086733", 
+    "id": "212", 
+    "name": "Walter Reed Community Center / Walter Reed Dr & 16th St S"
+  }, 
+  {
+    "lat": "38.846222", 
+    "lon": "-77.069275", 
+    "id": "213", 
+    "name": "28th St S & S Meade St"
+  }, 
+  {
+    "lat": "38.918809", 
+    "lon": "-77.041571", 
+    "id": "214", 
+    "name": "18th St & Wyoming Ave NW"
+  }, 
+  {
+    "lat": "38.956595", 
+    "lon": "-77.019815", 
+    "id": "215", 
+    "name": "5th & Kennedy St NW"
+  }, 
+  {
+    "lat": "38.949662", 
+    "lon": "-77.027333", 
+    "id": "216", 
+    "name": "Georgia Ave & Emerson St NW"
+  }, 
+  {
+    "lat": "38.942016", 
+    "lon": "-77.032652", 
+    "id": "217", 
+    "name": "14th & Upshur St NW"
+  }, 
+  {
+    "lat": "38.956432", 
+    "lon": "-77.032947", 
+    "id": "218", 
+    "name": "14th St & Colorado Ave NW"
+  }, 
+  {
+    "lat": "38.847977", 
+    "lon": "-77.075104", 
+    "id": "219", 
+    "name": "S Troy St & 26th St S"
+  }, 
+  {
+    "lat": "38.8444", 
+    "lon": "-77.085931", 
+    "id": "220", 
+    "name": "S Four Mile Run Dr & S Shirlington Rd"
+  }, 
+  {
+    "lat": "38.860789", 
+    "lon": "-77.09586", 
+    "id": "221", 
+    "name": "S Oakland St & Columbia Pike"
+  }, 
+  {
+    "lat": "38.835213", 
+    "lon": "-77.094295", 
+    "id": "222", 
+    "name": "S Abingdon St & 36th St S"
+  }, 
+  {
+    "lat": "38.84232", 
+    "lon": "-77.089555", 
+    "id": "223", 
+    "name": "S Arlington Mill Dr & Campbell Ave"
+  }, 
+  {
+    "lat": "38.848454", 
+    "lon": "-77.084918", 
+    "id": "224", 
+    "name": "S Kenmore & 24th St S"
+  }, 
+  {
+    "lat": "38.987", 
+    "lon": "-77.029417", 
+    "id": "225", 
+    "name": "13th St & Eastern Ave"
+  }, 
+  {
+    "lat": "38.90849", 
+    "lon": "-77.063586", 
+    "id": "226", 
+    "name": "Wisconsin Ave & O St NW"
+  }, 
+  {
+    "lat": "38.854691", 
+    "lon": "-77.100555", 
+    "id": "227", 
+    "name": "S George Mason Dr & 13th St S"
+  }, 
+  {
+    "lat": "38.955016", 
+    "lon": "-77.069956", 
+    "id": "228", 
+    "name": "Connecticut & Nebraska Ave NW"
+  }, 
+  {
+    "lat": "38.908142", 
+    "lon": "-77.038359", 
+    "id": "229", 
+    "name": "17th St & Massachusetts Ave NW"
+  }, 
+  {
+    "lat": "38.92333", 
+    "lon": "-77.0352", 
+    "id": "230", 
+    "name": "15th & Euclid St  NW"
+  }, 
+  {
+    "lat": "38.889988", 
+    "lon": "-76.995193", 
+    "id": "231", 
+    "name": "8th & East Capitol St NE"
+  }, 
+  {
+    "lat": "38.912659", 
+    "lon": "-77.017669", 
+    "id": "232", 
+    "name": "New Jersey Ave & R St NW"
+  }, 
+  {
+    "lat": "38.889908", 
+    "lon": "-76.983326", 
+    "id": "233", 
+    "name": "15th & East Capitol St NE"
+  }, 
+  {
+    "lat": "38.897274", 
+    "lon": "-76.994749", 
+    "id": "234", 
+    "name": "8th & F St NE"
+  }, 
+  {
+    "lat": "38.927095", 
+    "lon": "-76.978924", 
+    "id": "235", 
+    "name": "18th St & Rhode Island Ave NE"
+  }, 
+  {
+    "lat": "38.897195", 
+    "lon": "-76.983575", 
+    "id": "236", 
+    "name": "15th & F St NE"
+  }, 
+  {
+    "lat": "38.928644", 
+    "lon": "-76.990955", 
+    "id": "237", 
+    "name": "12th & Irving St NE"
+  }, 
+  {
+    "lat": "38.884085", 
+    "lon": "-76.957461", 
+    "id": "238", 
+    "name": "34th St & Minnesota Ave SE"
+  }, 
+  {
+    "lat": "38.843222", 
+    "lon": "-76.999388", 
+    "id": "239", 
+    "name": "Alabama & MLK Ave SE"
+  }, 
+  {
+    "lat": "38.863897", 
+    "lon": "-76.990037", 
+    "id": "240", 
+    "name": "Pleasant St & MLK Ave SE"
+  }, 
+  {
+    "lat": "38.903732", 
+    "lon": "-76.987211", 
+    "id": "241", 
+    "name": "Neal St & Trinidad Ave NE"
+  }, 
+  {
+    "lat": "38.916787", 
+    "lon": "-77.028139", 
+    "id": "242", 
+    "name": "12th & U St NW"
+  }, 
+  {
+    "lat": "38.852248", 
+    "lon": "-77.105022", 
+    "id": "243", 
+    "name": "S George Mason Dr & Four Mile Run"
+  }, 
+  {
+    "lat": "38.834108", 
+    "lon": "-77.087323", 
+    "id": "244", 
+    "name": "S Stafford & 34th St S"
+  }, 
+  {
+    "lat": "38.880705", 
+    "lon": "-77.08596", 
+    "id": "245", 
+    "name": "N Pershing Dr & Wayne St"
+  }, 
+  {
+    "lat": "38.867262", 
+    "lon": "-77.072315", 
+    "id": "246", 
+    "name": "Columbia Pike & S Orme St"
+  }, 
+  {
+    "lat": "38.887378", 
+    "lon": "-77.001955", 
+    "id": "247", 
+    "name": "3rd St & Pennsylvania Ave SE"
+  }, 
+  {
+    "lat": "38.894851", 
+    "lon": "-77.02324", 
+    "id": "248", 
+    "name": "8th & D St NW"
+  }, 
+  {
+    "lat": "38.917622", 
+    "lon": "-77.01597", 
+    "id": "249", 
+    "name": "3rd & Elm St NW"
+  }, 
+  {
+    "lat": "38.918155", 
+    "lon": "-77.004746", 
+    "id": "250", 
+    "name": "Rhode Island Ave & V St NE"
+  }, 
+  {
+    "lat": "38.892275", 
+    "lon": "-77.013917", 
+    "id": "251", 
+    "name": "Constitution Ave & 2nd St NW/DOL"
+  }, 
+  {
+    "lat": "38.88731", 
+    "lon": "-77.01397", 
+    "id": "252", 
+    "name": "Washington & Independence Ave SW/HHS"
+  }, 
+  {
+    "lat": "38.887312", 
+    "lon": "-77.025762", 
+    "id": "253", 
+    "name": "Independence Ave & L'Enfant Plaza SW/DOE"
+  }, 
+  {
+    "lat": "38.927497", 
+    "lon": "-76.997194", 
+    "id": "254", 
+    "name": "Hamlin & 7th St NE"
+  }, 
+  {
+    "lat": "38.862478", 
+    "lon": "-77.086599", 
+    "id": "255", 
+    "name": "Columbia Pike & S Walter Reed Dr"
+  }, 
+  {
+    "lat": "38.856319", 
+    "lon": "-77.11153", 
+    "id": "256", 
+    "name": "Columbia Pike & S Dinwiddie St / Arlington Mill Community Center"
+  }, 
+  {
+    "lat": "38.871822", 
+    "lon": "-77.107906", 
+    "id": "257", 
+    "name": "Pershing & N George Mason Dr"
+  }, 
+  {
+    "lat": "38.985404", 
+    "lon": "-77.023082", 
+    "id": "258", 
+    "name": "Fenton St & New York Ave"
+  }, 
+  {
+    "lat": "38.981103", 
+    "lon": "-77.097426", 
+    "id": "259", 
+    "name": "Bethesda Ave & Arlington Rd"
+  }, 
+  {
+    "lat": "38.983838", 
+    "lon": "-77.09221", 
+    "id": "260", 
+    "name": "Montgomery Ave & Waverly St"
+  }, 
+  {
+    "lat": "39.096312", 
+    "lon": "-77.192672", 
+    "id": "261", 
+    "name": "Fallsgrove Blvd & Fallsgrove Dr"
+  }, 
+  {
+    "lat": "39.093783", 
+    "lon": "-77.202501", 
+    "id": "262", 
+    "name": "Traville Gateway Dr & Gudelsky Dr"
+  }, 
+  {
+    "lat": "38.988562", 
+    "lon": "-77.096539", 
+    "id": "263", 
+    "name": "Norfolk Ave & Fairmont St"
+  }, 
+  {
+    "lat": "39.084125", 
+    "lon": "-77.151291", 
+    "id": "264", 
+    "name": "E Montgomery Ave & Maryland Ave"
+  }, 
+  {
+    "lat": "38.98954", 
+    "lon": "-77.098029", 
+    "id": "265", 
+    "name": "Cordell & Norfolk Ave"
+  }, 
+  {
+    "lat": "39.094772", 
+    "lon": "-77.145213", 
+    "id": "266", 
+    "name": "Frederick Ave & Horners Ln"
+  }, 
+  {
+    "lat": "38.98128", 
+    "lon": "-77.011336", 
+    "id": "267", 
+    "name": "Philadelphia & Maple Ave"
+  }, 
+  {
+    "lat": "38.983627", 
+    "lon": "-77.006311", 
+    "id": "268", 
+    "name": "Maple & Ritchie Ave"
+  }, 
+  {
+    "lat": "38.99521", 
+    "lon": "-77.02918", 
+    "id": "269", 
+    "name": "Silver Spring Metro/Colesville Rd & Wayne Ave"
+  }, 
+  {
+    "lat": "38.983525", 
+    "lon": "-77.095367", 
+    "id": "270", 
+    "name": "Montgomery & East Ln"
+  }, 
+  {
+    "lat": "38.961763", 
+    "lon": "-77.085998", 
+    "id": "271", 
+    "name": "Friendship Hts Metro/Wisconsin Ave & Wisconsin Cir"
+  }, 
+  {
+    "lat": "38.921074", 
+    "lon": "-77.031887", 
+    "id": "272", 
+    "name": "14th & Belmont St NW"
+  }, 
+  {
+    "lat": "38.87501", 
+    "lon": "-77.0024", 
+    "id": "273", 
+    "name": "3rd & Tingey St SE"
+  }, 
+  {
+    "lat": "38.920387", 
+    "lon": "-77.025672", 
+    "id": "274", 
+    "name": "10th & Florida Ave NW"
+  }, 
+  {
+    "lat": "38.876737", 
+    "lon": "-76.994468", 
+    "id": "275", 
+    "name": "Potomac Ave & 8th St SE"
+  }, 
+  {
+    "lat": "39.120045", 
+    "lon": "-77.156985", 
+    "id": "276", 
+    "name": "Crabbs Branch Way & Redland Rd"
+  }, 
+  {
+    "lat": "39.099376", 
+    "lon": "-77.188014", 
+    "id": "277", 
+    "name": "Fallsgrove Dr & W Montgomery Ave"
+  }, 
+  {
+    "lat": "39.082779", 
+    "lon": "-77.148827", 
+    "id": "278", 
+    "name": "Monroe St & Monroe Pl"
+  }, 
+  {
+    "lat": "39.123513", 
+    "lon": "-77.15741", 
+    "id": "279", 
+    "name": "Needwood Rd & Eagles Head Ct"
+  }, 
+  {
+    "lat": "38.990249", 
+    "lon": "-77.02935", 
+    "id": "280", 
+    "name": "East West Hwy & Blair Mill Rd"
+  }, 
+  {
+    "lat": "39.107709", 
+    "lon": "-77.152072", 
+    "id": "281", 
+    "name": "Crabbs Branch Way & Calhoun Pl"
+  }, 
+  {
+    "lat": "38.982456", 
+    "lon": "-77.091991", 
+    "id": "282", 
+    "name": "47th & Elm St"
+  }, 
+  {
+    "lat": "39.000578", 
+    "lon": "-77.00149", 
+    "id": "283", 
+    "name": "Garland Ave & Walden Rd"
+  }, 
+  {
+    "lat": "39.095661", 
+    "lon": "-77.159048", 
+    "id": "284", 
+    "name": "Montgomery College/W Campus Dr & Mannakee St"
+  }, 
+  {
+    "lat": "38.989724", 
+    "lon": "-77.023854", 
+    "id": "285", 
+    "name": "Fenton St & Gist Ave"
+  }, 
+  {
+    "lat": "38.975", 
+    "lon": "-77.01121", 
+    "id": "286", 
+    "name": "Carroll & Westmoreland Ave"
+  }, 
+  {
+    "lat": "38.977933", 
+    "lon": "-77.006472", 
+    "id": "287", 
+    "name": "Carroll & Ethan Allen Ave"
+  }, 
+  {
+    "lat": "38.992375", 
+    "lon": "-77.100104", 
+    "id": "288", 
+    "name": "Battery Ln & Trolley Trail"
+  }, 
+  {
+    "lat": "38.990639", 
+    "lon": "-77.100239", 
+    "id": "289", 
+    "name": "Norfolk & Rugby Ave"
+  }, 
+  {
+    "lat": "38.977093", 
+    "lon": "-77.094589", 
+    "id": "290", 
+    "name": "Offutt Ln & Chevy Chase Dr"
+  }, 
+  {
+    "lat": "39.102099", 
+    "lon": "-77.200322", 
+    "id": "291", 
+    "name": "Broschart & Blackwell Rd"
+  }, 
+  {
+    "lat": "39.094103", 
+    "lon": "-77.132954", 
+    "id": "292", 
+    "name": "Taft St & E Gude Dr"
+  }, 
+  {
+    "lat": "39.076331", 
+    "lon": "-77.141378", 
+    "id": "293", 
+    "name": "Fleet St & Ritchie Pkwy"
+  }, 
+  {
+    "lat": "39.102212", 
+    "lon": "-77.177091", 
+    "id": "294", 
+    "name": "Piccard & W Gude Dr"
+  }, 
+  {
+    "lat": "38.992679", 
+    "lon": "-77.029457", 
+    "id": "295", 
+    "name": "Ripley & Bonifant St"
+  }, 
+  {
+    "lat": "38.999388", 
+    "lon": "-77.031555", 
+    "id": "296", 
+    "name": "Georgia Ave & Spring St"
+  }, 
+  {
+    "lat": "38.997033", 
+    "lon": "-77.025608", 
+    "id": "297", 
+    "name": "Fenton St & Ellsworth Dr"
+  }, 
+  {
+    "lat": "39.114688", 
+    "lon": "-77.171487", 
+    "id": "298", 
+    "name": "King Farm Blvd & Pleasant Dr"
+  }, 
+  {
+    "lat": "39.110314", 
+    "lon": "-77.182669", 
+    "id": "299", 
+    "name": "King Farm Blvd & Piccard Dr"
+  }, 
+  {
+    "lat": "38.923583", 
+    "lon": "-77.050046", 
+    "id": "301", 
+    "name": "Calvert St & Woodley Pl NW"
+  }, 
+  {
+    "lat": "38.90706", 
+    "lon": "-77.015231", 
+    "id": "302", 
+    "name": "New Jersey Ave & N St NW/Dunbar HS"
+  }, 
+  {
+    "lat": "38.898536", 
+    "lon": "-76.931862", 
+    "id": "303", 
+    "name": "Nannie Helen Burroughs Ave & 49th St NE"
+  }, 
+  {
+    "lat": "38.908473", 
+    "lon": "-76.933099", 
+    "id": "304", 
+    "name": "Deanwood Rec Center"
+  }, 
+  {
+    "lat": "38.878433", 
+    "lon": "-77.03023", 
+    "id": "305", 
+    "name": "Hains Point/Buckeye & Ohio Dr SW"
+  }, 
+  {
+    "lat": "38.873755", 
+    "lon": "-77.089233", 
+    "id": "306", 
+    "name": "Arlington Blvd & Fillmore St"
+  }, 
+  {
+    "lat": "38.86646", 
+    "lon": "-77.04826", 
+    "id": "307", 
+    "name": "Long Bridge Park/Long Bridge Dr & 6th St S"
+  }, 
+  {
+    "lat": "38.999634", 
+    "lon": "-77.109647", 
+    "id": "308", 
+    "name": "Old Georgetown Rd & Southwick St"
+  }, 
+  {
+    "lat": "38.96115", 
+    "lon": "-77.088659", 
+    "id": "309", 
+    "name": "Friendship Blvd & Willard Ave"
+  }, 
+  {
+    "lat": "38.899703", 
+    "lon": "-77.008911", 
+    "id": "310", 
+    "name": "North Capitol St & G Pl NE"
+  }, 
+  {
+    "lat": "38.837666", 
+    "lon": "-77.09482", 
+    "id": "311", 
+    "name": "31st & Woodrow St S"
+  }, 
+  {
+    "lat": "38.873219", 
+    "lon": "-77.082104", 
+    "id": "312", 
+    "name": "Washington Blvd & Walter Reed Dr"
+  }, 
+  {
+    "lat": "38.869418", 
+    "lon": "-77.095596", 
+    "id": "313", 
+    "name": "TJ Cmty Ctr / 2nd St & S Old Glebe Rd"
+  }, 
+  {
+    "lat": "38.941154", 
+    "lon": "-77.062036", 
+    "id": "314", 
+    "name": "Connecticut Ave & Tilden St NW"
+  }, 
+  {
+    "lat": "39.103091", 
+    "lon": "-77.196442", 
+    "id": "315", 
+    "name": "Medical Center Dr & Key West Ave"
+  }, 
+  {
+    "lat": "39.097636", 
+    "lon": "-77.196636", 
+    "id": "316", 
+    "name": "Shady Grove Hospital"
+  }, 
+  {
+    "lat": "38.997445", 
+    "lon": "-77.023894", 
+    "id": "317", 
+    "name": "Veterans Pl & Pershing Dr"
+  }, 
+  {
+    "lat": "39.085394", 
+    "lon": "-77.145803", 
+    "id": "318", 
+    "name": "Rockville Metro East"
+  }, 
+  {
+    "lat": "38.900358", 
+    "lon": "-77.012108", 
+    "id": "319", 
+    "name": "1st & H St NW"
+  }, 
+  {
+    "lat": "38.952369", 
+    "lon": "-77.002721", 
+    "id": "320", 
+    "name": "Fort Totten Metro"
+  }, 
+  {
+    "lat": "38.975219", 
+    "lon": "-77.016855", 
+    "id": "321", 
+    "name": "Takoma Metro"
+  }, 
+  {
+    "lat": "38.920682", 
+    "lon": "-76.995876", 
+    "id": "322", 
+    "name": "Rhode Island Ave Metro"
+  }, 
+  {
+    "lat": "38.866471", 
+    "lon": "-77.076131", 
+    "id": "323", 
+    "name": "Rolfe St & 9th St S"
+  }, 
+  {
+    "lat": "38.839912", 
+    "lon": "-77.087083", 
+    "id": "324", 
+    "name": "Shirlington Transit Center / S Quincy & Randolph St"
+  }, 
+  {
+    "lat": "39.119765", 
+    "lon": "-77.166093", 
+    "id": "325", 
+    "name": "Shady Grove Metro West"
+  }, 
+  {
+    "lat": "38.964992", 
+    "lon": "-77.103381", 
+    "id": "326", 
+    "name": "River Rd & Landy Ln"
+  }, 
+  {
+    "lat": "39.084379", 
+    "lon": "-77.146866", 
+    "id": "327", 
+    "name": "Rockville Metro West"
+  }, 
+  {
+    "lat": "38.984691", 
+    "lon": "-77.094537", 
+    "id": "328", 
+    "name": "Bethesda Metro"
+  }, 
+  {
+    "lat": "38.88992", 
+    "lon": "-77.071301", 
+    "id": "329", 
+    "name": "Iwo Jima Memorial/N Meade & 14th St N"
+  }, 
+  {
+    "lat": "38.903582", 
+    "lon": "-77.067786", 
+    "id": "330", 
+    "name": "34th & Water St NW"
+  }, 
+  {
+    "lat": "38.804378", 
+    "lon": "-77.060866", 
+    "id": "331", 
+    "name": "Duke St & John Carlyle St"
+  }, 
+  {
+    "lat": "38.894941", 
+    "lon": "-77.09169", 
+    "id": "332", 
+    "name": "Lee Hwy & N Cleveland St"
+  }, 
+  {
+    "lat": "38.869442", 
+    "lon": "-77.104503", 
+    "id": "333", 
+    "name": "Arlington Blvd & S George Mason Dr/NFATC"
+  }, 
+  {
+    "lat": "38.898404", 
+    "lon": "-77.024281", 
+    "id": "334", 
+    "name": "MLK Library/9th & G St NW"
+  }, 
+  {
+    "lat": "38.897612", 
+    "lon": "-77.080851", 
+    "id": "335", 
+    "name": "Lee Hwy & N Scott St"
+  }, 
+  {
+    "lat": "38.901755", 
+    "lon": "-77.051084", 
+    "id": "336", 
+    "name": "New Hampshire Ave & 24th St NW"
+  }, 
+  {
+    "lat": "38.801111", 
+    "lon": "-77.068952", 
+    "id": "337", 
+    "name": "Eisenhower Ave & Mill Race Ln"
+  }, 
+  {
+    "lat": "38.82175", 
+    "lon": "-77.047494", 
+    "id": "338", 
+    "name": "Potomac Greens Dr & Slaters Ln"
+  }, 
+  {
+    "lat": "38.802677", 
+    "lon": "-77.063562", 
+    "id": "339", 
+    "name": "Ballenger Ave & Dulaney St"
+  }, 
+  {
+    "lat": "38.820064", 
+    "lon": "-77.057619", 
+    "id": "340", 
+    "name": "Mount Vernon Ave & E Nelson Ave"
+  }, 
+  {
+    "lat": "38.82595", 
+    "lon": "-77.058541", 
+    "id": "341", 
+    "name": "Mount Vernon Ave & E Del Ray Ave"
+  }, 
+  {
+    "lat": "38.820932", 
+    "lon": "-77.053096", 
+    "id": "342", 
+    "name": "Monroe Ave & Leslie Ave"
+  }, 
+  {
+    "lat": "38.833077", 
+    "lon": "-77.059821", 
+    "id": "343", 
+    "name": "Mount Vernon Ave & Kennedy St"
+  }, 
+  {
+    "lat": "38.890612", 
+    "lon": "-77.084801", 
+    "id": "344", 
+    "name": "Court House Metro / 15th & N Uhle St"
+  }, 
+  {
+    "lat": "38.986743", 
+    "lon": "-77.000035", 
+    "id": "345", 
+    "name": "Washington Adventist U / Flower Ave & Division St"
+  }, 
+  {
+    "lat": "38.864702", 
+    "lon": "-77.048672", 
+    "id": "346", 
+    "name": "6th & S Ball St"
+  }, 
+  {
+    "lat": "38.96497", 
+    "lon": "-77.075946", 
+    "id": "347", 
+    "name": "McKinley St & Connecticut Ave NW"
+  }, 
+  {
+    "lat": "38.90381", 
+    "lon": "-77.034931", 
+    "id": "348", 
+    "name": "15th & L St NW"
+  }, 
+  {
+    "lat": "38.89841", 
+    "lon": "-77.039624", 
+    "id": "349", 
+    "name": "17th & G St NW"
+  }, 
+  {
+    "lat": "38.997653", 
+    "lon": "-77.034499", 
+    "id": "350", 
+    "name": "Spring St & Second Ave"
+  }, 
+  {
+    "lat": "38.912648", 
+    "lon": "-77.041834", 
+    "id": "351", 
+    "name": "18th & R St NW"
+  }, 
+  {
+    "lat": "38.859254", 
+    "lon": "-77.063275", 
+    "id": "352", 
+    "name": "S Joyce & 16th St S"
+  }, 
+  {
+    "lat": "38.908008", 
+    "lon": "-76.996985", 
+    "id": "353", 
+    "name": "Union Market/6th St & Neal Pl NE"
+  }, 
+  {
+    "lat": "38.895929", 
+    "lon": "-77.105246", 
+    "id": "354", 
+    "name": "N Nelson St & Lee Hwy"
+  }, 
+  {
+    "lat": "38.898984", 
+    "lon": "-77.078317", 
+    "id": "355", 
+    "name": "21st St N & N Pierce St"
+  }, 
+  {
+    "lat": "38.895377", 
+    "lon": "-77.09713", 
+    "id": "356", 
+    "name": "Lee Hwy & N Kirkwood Rd"
+  }, 
+  {
+    "lat": "38.898412", 
+    "lon": "-77.043182", 
+    "id": "357", 
+    "name": "19th & G St NW"
+  }, 
+  {
+    "lat": "38.862467", 
+    "lon": "-77.068242", 
+    "id": "364", 
+    "name": "Army Navy Dr & S Nash St"
+  }, 
+  {
+    "lat": "38.913761", 
+    "lon": "-77.027025", 
+    "id": "367", 
+    "name": "11th & S St NW"
+  }, 
+  {
+    "lat": "38.86612", 
+    "lon": "-77.08787", 
+    "id": "368", 
+    "name": "S Walter Reed Dr & 8th St S"
+  },
+
+
+  {
+    "lat": "38.900205",
+    "lon": "-77.031956",
+    "id": "369",
+    "name": "McPherson Square / 14th & H St NW"
+  },
+  {
+    "lat": "38.850268",
+    "lon": "-77.050501",
+    "id": "370",
+    "name": "26th & Crystal Dr"
+  },
+  {
+    "lat": "38.878279",
+    "lon": "-77.023061",
+    "id": "371",
+    "name": "7th & Water St SW / SW Waterfront"
+  },
+  {
+    "lat": "38.919687",
+    "lon": "-77.000547",
+    "id": "372",
+    "name": "4th St & Rhode Island Ave NE"
+  },
+  {
+    "lat": "38.933507",
+    "lon": "-77.072418",
+    "id": "373",
+    "name": "Wisconsin Ave & Macomb St NW"
+  },
+  {
+    "lat": "38.860638",
+    "lon": "-77.059899",
+    "id": "374",
+    "name": "15th & Hayes St"
+  },
+  {
+    "lat": "38.882045",
+    "lon": "-77.115755",
+    "id": "375",
+    "name": "Fairfax Dr & Glebe Rd"
+  },
+  {
+    "lat": "38.935097",
+    "lon": "-77.073964",
+    "id": "376",
+    "name": "Idaho Ave & Newark St NW [on 2nd District patio]"
+  },
+  {
+    "lat": "38.900229",
+    "lon": "-77.016164",
+    "id": "377",
+    "name": "4th St & Massachusetts Ave NW"
+  },
+  {
+    "lat": "38.897203",
+    "lon": "-77.022963",
+    "id": "378",
+    "name": "8th & F St NW / National Portrait Gallery"
+  },
+  {
+    "lat": "38.917006",
+    "lon": "-77.029594",
+    "id": "379",
+    "name": "13th & U St NW"
+  },
+  {
+    "lat": "38.854188",
+    "lon": "-77.053299",
+    "id": "380",
+    "name": "22nd & Eads St"
+  }
+]
