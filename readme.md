@@ -1,4 +1,8 @@
+# UMD Study:
+* http://smartgrowth.umd.edu/assets/bikeshare_transit_for_parisws_v1.pdf
+
 # Notes on pythonScripts
+
 ## Abbreviations:
 * df(s) = dataframe(s)
 * wrt   = with respect to
