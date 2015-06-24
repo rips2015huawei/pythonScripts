@@ -1,0 +1,5541 @@
+[
+  {
+    "rating": 5.0, 
+    "review_count": 549, 
+    "name": "Lincoln Memorial", 
+    "longitude": -77.0501470564384, 
+    "address": [
+      "Lincoln Memorial Cir NW"
+    ], 
+    "latitude": 38.8892750597524, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 5.0, 
+    "review_count": 298, 
+    "name": "Arlington National Cemetery", 
+    "longitude": -77.0612029173198, 
+    "address": [
+      "Memorial Dr"
+    ], 
+    "latitude": 38.8750478485961, 
+    "categories": [
+      "tours", 
+      "landmarks", 
+      "funeral services & cemeteries"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 188, 
+    "name": "Vietnam Veterans Memorial", 
+    "longitude": -77.0476747857971, 
+    "address": [
+      "National Mall", 
+      "Henry Bacon Dr and Constitution Ave NW"
+    ], 
+    "latitude": 38.8910251787901, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 335, 
+    "name": "El Chilango", 
+    "longitude": -77.078193, 
+    "address": [
+      "14th St N & N Quinn St"
+    ], 
+    "latitude": 38.890849, 
+    "categories": [
+      "food stands", 
+      "mexican"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 230, 
+    "name": "Library of Congress", 
+    "longitude": -77.0046997, 
+    "address": [
+      "101 Independence Ave SE"
+    ], 
+    "latitude": 38.8868103, 
+    "categories": [
+      "libraries", 
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 543, 
+    "name": "Komi", 
+    "longitude": -77.0381317138672, 
+    "address": [
+      "1509 17th St NW"
+    ], 
+    "latitude": 38.9101219177246, 
+    "categories": [
+      "greek", 
+      "mediterranean"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 142, 
+    "name": "Korean War Veterans Memorial", 
+    "longitude": -77.0502014, 
+    "address": [
+      "Lincoln Memorial Circle Southwest", 
+      "23rd St SW near Ohio Drive SW and Independence Ave SW"
+    ], 
+    "latitude": 38.8882103, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 5.0, 
+    "review_count": 26, 
+    "name": "Yelp Goes to Bovine University at Del Frisco's Double Eagle", 
+    "longitude": -77.0250015, 
+    "address": [
+      "950 I Street Northwest", 
+      "Suite 501"
+    ], 
+    "latitude": 38.9007149, 
+    "categories": [
+      "yelp events"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 211, 
+    "name": "&pizza", 
+    "longitude": -77.026232779026, 
+    "address": [
+      "1005 E St NW"
+    ], 
+    "latitude": 38.896194845438, 
+    "categories": [
+      "vegetarian", 
+      "vegan", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 188, 
+    "name": "Jefferson Memorial", 
+    "longitude": -77.036445112006, 
+    "address": [
+      "900 Ohio Dr SW"
+    ], 
+    "latitude": 38.881515356364, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 679, 
+    "name": "Rose's Luxury", 
+    "longitude": -76.995338, 
+    "address": [
+      "717 8th St SE"
+    ], 
+    "latitude": 38.880638, 
+    "categories": [
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 347, 
+    "name": "Keren Restaurant", 
+    "longitude": -77.041243, 
+    "address": [
+      "1780 Florida Ave NW"
+    ], 
+    "latitude": 38.916715, 
+    "categories": [
+      "cafes", 
+      "ethiopian"
+    ]
+  }, 
+  {
+    "rating": 5.0, 
+    "review_count": 82, 
+    "name": "Marine Corps War Memorial", 
+    "longitude": -77.06974625587459, 
+    "address": [
+      "Arlington National Cemetery", 
+      "Meade St and Marshall Dr"
+    ], 
+    "latitude": 38.890423222956, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 5.0, 
+    "review_count": 23, 
+    "name": "Sammy's Coffee Kiosk", 
+    "longitude": -77.048126, 
+    "address": [
+      "2121 Virginia Ave NW"
+    ], 
+    "latitude": 38.896473, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 225, 
+    "name": "National Mall", 
+    "longitude": -77.0311351477082, 
+    "address": [
+      "900 Ohio Dr SW"
+    ], 
+    "latitude": 38.8894658382032, 
+    "categories": [
+      "parks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 374, 
+    "name": "Greek Deli & Catering", 
+    "longitude": -77.043926, 
+    "address": [
+      "1120 19th St NW"
+    ], 
+    "latitude": 38.905027, 
+    "categories": [
+      "greek", 
+      "delis", 
+      "breakfast & brunch"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 129, 
+    "name": "Smithsonian American Art Museum", 
+    "longitude": -77.022983, 
+    "address": [
+      "8th St & F St NW"
+    ], 
+    "latitude": 38.898832, 
+    "categories": [
+      "museums", 
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 318, 
+    "name": "Bub and Pop's", 
+    "longitude": -77.042368, 
+    "address": [
+      "1815 M St NW"
+    ], 
+    "latitude": 38.906029, 
+    "categories": [
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 200, 
+    "name": "Minibar by Jose Andres", 
+    "longitude": -77.0234985, 
+    "address": [
+      "855 E St NW"
+    ], 
+    "latitude": 38.8962631, 
+    "categories": [
+      "cocktail bars", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 1705, 
+    "name": "Rasika", 
+    "longitude": -77.0212860107422, 
+    "address": [
+      "633 D St NW"
+    ], 
+    "latitude": 38.8950080871582, 
+    "categories": [
+      "indpak", 
+      "indian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 344, 
+    "name": "&pizza", 
+    "longitude": -77.029065, 
+    "address": [
+      "1250 U St NW"
+    ], 
+    "latitude": 38.916738, 
+    "categories": [
+      "vegetarian", 
+      "vegan", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 1472, 
+    "name": "Amsterdam Falafelshop", 
+    "longitude": -77.041862487793, 
+    "address": [
+      "2425 18th St NW"
+    ], 
+    "latitude": 38.921199798584, 
+    "categories": [
+      "falafel", 
+      "vegetarian", 
+      "mideastern", 
+      "middle eastern"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 1142, 
+    "name": "Fogo de Ch\u00e3o Brazilian Steakhouse", 
+    "longitude": -77.0274124, 
+    "address": [
+      "1101 Pennsylvania Ave. NW"
+    ], 
+    "latitude": 38.8953514, 
+    "categories": [
+      "steak", 
+      "seafood", 
+      "brazilian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 444, 
+    "name": "&pizza", 
+    "longitude": -76.9907837, 
+    "address": [
+      "1118 H St NE"
+    ], 
+    "latitude": 38.9004517, 
+    "categories": [
+      "vegetarian", 
+      "vegan", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 162, 
+    "name": "National World War II Memorial", 
+    "longitude": -77.0388184, 
+    "address": [
+      "The National Mall", 
+      "17th and Independence Ave SW"
+    ], 
+    "latitude": 38.8879814, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 67, 
+    "name": "Neopol Savory Smokery", 
+    "longitude": -76.9979685, 
+    "address": [
+      "1309 5th St NE"
+    ], 
+    "latitude": 38.9087806, 
+    "categories": [
+      "bakeries", 
+      "seafood", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 121, 
+    "name": "Barmini", 
+    "longitude": -77.0234985, 
+    "address": [
+      "855 E St NW"
+    ], 
+    "latitude": 38.8962631, 
+    "categories": [
+      "cocktail bars", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 1940, 
+    "name": "Baked & Wired", 
+    "longitude": -77.0601975917816, 
+    "address": [
+      "1052 Thomas Jefferson St NW"
+    ], 
+    "latitude": 38.9036746572625, 
+    "categories": [
+      "bakeries", 
+      "coffee", 
+      "cupcakes"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 238, 
+    "name": "Basil Thyme", 
+    "longitude": -77.0258331, 
+    "address": [
+      "L' Enfant Plz"
+    ], 
+    "latitude": 38.885891, 
+    "categories": [
+      "food trucks", 
+      "food stands", 
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 129, 
+    "name": "FDR Memorial", 
+    "longitude": -77.0445561643798, 
+    "address": [
+      "1850 W Basin Dr SW"
+    ], 
+    "latitude": 38.8841757704779, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 111, 
+    "name": "Caffe Aficionado", 
+    "longitude": -77.070685, 
+    "address": [
+      "1919 N Lynn St"
+    ], 
+    "latitude": 38.897529, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 156, 
+    "name": "Simply Banh Mi", 
+    "longitude": -77.0656122492302, 
+    "address": [
+      "1624 Wisconsin Ave NW"
+    ], 
+    "latitude": 38.911475972879, 
+    "categories": [
+      "halal", 
+      "sandwiches", 
+      "vietnamese"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 179, 
+    "name": "illy", 
+    "longitude": -77.0475235, 
+    "address": [
+      "1143 New Hampshire Ave NW"
+    ], 
+    "latitude": 38.9047585, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 132, 
+    "name": "Uprising Muffin Company", 
+    "longitude": -77.02191, 
+    "address": [
+      "1817 7th St NW"
+    ], 
+    "latitude": 38.914912, 
+    "categories": [
+      "bakeries", 
+      "coffee", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 291, 
+    "name": "Washington Monument", 
+    "longitude": -77.0352530479431, 
+    "address": [
+      "15th St SW"
+    ], 
+    "latitude": 38.8894628780114, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 210, 
+    "name": "Stachowski Market & Deli", 
+    "longitude": -77.0569687, 
+    "address": [
+      "1425 28th St NW"
+    ], 
+    "latitude": 38.9091187, 
+    "categories": [
+      "polish", 
+      "delis", 
+      "butcher"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 285, 
+    "name": "Marcel's by Robert Wiedmaier", 
+    "longitude": -77.0519104, 
+    "address": [
+      "2401 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.9034691, 
+    "categories": [
+      "french", 
+      "belgian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 161, 
+    "name": "Washington National Cathedral", 
+    "longitude": -77.0725784301758, 
+    "address": [
+      "3101 Wisconsin Ave NW"
+    ], 
+    "latitude": 38.9309921264648, 
+    "categories": [
+      "churches", 
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 217, 
+    "name": "La Colombe", 
+    "longitude": -77.0254288, 
+    "address": [
+      "1219 Blagden Alley NW"
+    ], 
+    "latitude": 38.9063683, 
+    "categories": [
+      "coffee", 
+      "cafes"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 464, 
+    "name": "Pitango Gelato", 
+    "longitude": -77.0218480378389, 
+    "address": [
+      "413 7th St NW"
+    ], 
+    "latitude": 38.8950448483229, 
+    "categories": [
+      "ice cream & frozen yogurt", 
+      "coffee", 
+      "icecream"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 118, 
+    "name": "Martin Luther King, Jr. National Memorial", 
+    "longitude": -77.043737, 
+    "address": [
+      "1964 Independence Ave SW"
+    ], 
+    "latitude": 38.887015, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 203, 
+    "name": "A Litteri", 
+    "longitude": -76.9984665, 
+    "address": [
+      "517-519 Morse St NE"
+    ], 
+    "latitude": 38.9069595, 
+    "categories": [
+      "grocery", 
+      "delis", 
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 58, 
+    "name": "Rosslyn Coffee & Deli", 
+    "longitude": -77.0701217651367, 
+    "address": [
+      "Lobby Level", 
+      "1101 Wilson Blvd"
+    ], 
+    "latitude": 38.8952164027178, 
+    "categories": [
+      "delis", 
+      "coffee", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 131, 
+    "name": "Gravelly Point Park", 
+    "longitude": -77.04008102416991, 
+    "address": [
+      "George Washington Pkwy"
+    ], 
+    "latitude": 38.864439229583404, 
+    "categories": [
+      "parks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 384, 
+    "name": "Woodland's Vegan Bistro", 
+    "longitude": -77.0232229, 
+    "address": [
+      "2928 Georgia Ave NW"
+    ], 
+    "latitude": 38.9278669, 
+    "categories": [
+      "soul food", 
+      "vegan"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 1188, 
+    "name": "Blue Duck Tavern", 
+    "longitude": -77.0512, 
+    "address": [
+      "1201 24th St NW"
+    ], 
+    "latitude": 38.906052, 
+    "categories": [
+      "american (traditional)", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 2577, 
+    "name": "Zaytinya", 
+    "longitude": -77.023483, 
+    "address": [
+      "701 9th St NW"
+    ], 
+    "latitude": 38.899044, 
+    "categories": [
+      "greek", 
+      "lebanese", 
+      "turkish"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 74, 
+    "name": "Mother Rucker's Subs", 
+    "longitude": -76.9807532, 
+    "address": [
+      "1101 Bladensburg Rd NE"
+    ], 
+    "latitude": 38.9039032, 
+    "categories": [
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 275, 
+    "name": "Obelisk", 
+    "longitude": -77.045329, 
+    "address": [
+      "2029 P St NW"
+    ], 
+    "latitude": 38.909544, 
+    "categories": [
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 211, 
+    "name": "Ford's Theatre", 
+    "longitude": -77.025658, 
+    "address": [
+      "511 10th St NW"
+    ], 
+    "latitude": 38.896675, 
+    "categories": [
+      "museums", 
+      "performing arts", 
+      "theater", 
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 326, 
+    "name": "National Portrait Gallery", 
+    "longitude": -77.022979259491, 
+    "address": [
+      "8th St & F St NW"
+    ], 
+    "latitude": 38.8975627717356, 
+    "categories": [
+      "museums", 
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 1133, 
+    "name": "Le Diplomate", 
+    "longitude": -77.0318208, 
+    "address": [
+      "1601 14th Street NW"
+    ], 
+    "latitude": 38.9112078, 
+    "categories": [
+      "brasseries", 
+      "cafes", 
+      "french"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 146, 
+    "name": "National Gallery of Art Sculpture Garden & Ice Rink", 
+    "longitude": -77.0223060250282, 
+    "address": [
+      "700 Constitution Ave NW"
+    ], 
+    "latitude": 38.8920447975397, 
+    "categories": [
+      "skating rinks", 
+      "landmarks", 
+      "galleries"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 208, 
+    "name": "National Archives and Records Administration", 
+    "longitude": -77.0221024, 
+    "address": [
+      "700 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.893158, 
+    "categories": [
+      "museums", 
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 364, 
+    "name": "Wiseguy NY Pizza", 
+    "longitude": -77.0160423825012, 
+    "address": [
+      "300 Massachusetts Ave NW", 
+      "Ste 1"
+    ], 
+    "latitude": 38.899670106188, 
+    "categories": [
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 50, 
+    "name": "U.S. Capitol Building", 
+    "longitude": -77.0091455930616, 
+    "address": [
+      "E Capitol St and First St NW"
+    ], 
+    "latitude": 38.8898405915333, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 422, 
+    "name": "Corduroy", 
+    "longitude": -77.024361, 
+    "address": [
+      "1122 9th St NW"
+    ], 
+    "latitude": 38.905075, 
+    "categories": [
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 296, 
+    "name": "Zenebech Injera", 
+    "longitude": -77.0205377, 
+    "address": [
+      "608 T St NW"
+    ], 
+    "latitude": 38.9154515, 
+    "categories": [
+      "ethiopian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 197, 
+    "name": "Pleasant Pops Farmhouse Market & Cafe", 
+    "longitude": -77.0410466194153, 
+    "address": [
+      "1781 Florida Ave NW", 
+      "Ste G"
+    ], 
+    "latitude": 38.9173326525253, 
+    "categories": [
+      "ice cream & frozen yogurt", 
+      "icecream", 
+      "coffee", 
+      "cafes"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 123, 
+    "name": "Meridian Hill Park", 
+    "longitude": -77.0364902168512, 
+    "address": [
+      "16th St & Euclid St NW"
+    ], 
+    "latitude": 38.9232502877712, 
+    "categories": [
+      "parks"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 436, 
+    "name": "The Capital Grille", 
+    "longitude": -77.020194162501, 
+    "address": [
+      "601 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.893114024059, 
+    "categories": [
+      "american (traditional)", 
+      "steak", 
+      "seafood"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 204, 
+    "name": "Los Hermanos", 
+    "longitude": -77.033783, 
+    "address": [
+      "1426 Park Rd NW"
+    ], 
+    "latitude": 38.930458, 
+    "categories": [
+      "dominican"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 224, 
+    "name": "Indigo", 
+    "longitude": -77.002233, 
+    "address": [
+      "243 K St NE"
+    ], 
+    "latitude": 38.902205, 
+    "categories": [
+      "indpak", 
+      "indian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 770, 
+    "name": "Thai X-ing", 
+    "longitude": -77.0189590454102, 
+    "address": [
+      "515 Florida Ave NW"
+    ], 
+    "latitude": 38.9152336120605, 
+    "categories": [
+      "thai"
+    ]
+  }, 
+  {
+    "rating": 5.0, 
+    "review_count": 26, 
+    "name": "The White House Garden Tour", 
+    "longitude": -77.03605174804801, 
+    "address": [
+      "1600 Pensylvania Ave NW"
+    ], 
+    "latitude": 38.897530679051, 
+    "categories": [
+      "tours", 
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 51, 
+    "name": "C&O Canal", 
+    "longitude": -77.0598754882812, 
+    "address": [
+      "1057 Thomas Jefferson St NW"
+    ], 
+    "latitude": 38.9043045043945, 
+    "categories": [
+      "landmarks", 
+      "local flavor"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 262, 
+    "name": "Sidamo Coffee and Tea", 
+    "longitude": -76.9999084472656, 
+    "address": [
+      "417 H St NE"
+    ], 
+    "latitude": 38.8999443054199, 
+    "categories": [
+      "breakfast & brunch", 
+      "coffee", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 276, 
+    "name": "DCity Smokehouse", 
+    "longitude": -77.009254, 
+    "address": [
+      "8 Florida Ave NW"
+    ], 
+    "latitude": 38.910887, 
+    "categories": [
+      "sandwiches", 
+      "bbq", 
+      "barbeque"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 36, 
+    "name": "Screen on the Green", 
+    "longitude": -77.04, 
+    "address": [
+      "The National Mall", 
+      "Between 8th & 14th Streets"
+    ], 
+    "latitude": 38.9, 
+    "categories": [
+      "festivals", 
+      "local flavor"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 236, 
+    "name": "Juice Joint Caf\u00e9", 
+    "longitude": -77.0329208, 
+    "address": [
+      "1025 Vermont Ave NW"
+    ], 
+    "latitude": 38.9033012, 
+    "categories": [
+      "juice bars & smoothies", 
+      "caterers", 
+      "juicebars", 
+      "catering", 
+      "cafes"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 375, 
+    "name": "Little Serow", 
+    "longitude": -77.0381317, 
+    "address": [
+      "1511 17th St NW"
+    ], 
+    "latitude": 38.9101181, 
+    "categories": [
+      "thai"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 249, 
+    "name": "Dolcezza", 
+    "longitude": -77.065033, 
+    "address": [
+      "1560 Wisconsin Ave NW"
+    ], 
+    "latitude": 38.9103203, 
+    "categories": [
+      "gelato", 
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 361, 
+    "name": "Dolcezza", 
+    "longitude": -77.0455962, 
+    "address": [
+      "1704 Connecticut Ave NW"
+    ], 
+    "latitude": 38.9128596, 
+    "categories": [
+      "ice cream & frozen yogurt", 
+      "icecream", 
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 5.0, 
+    "review_count": 21, 
+    "name": "Tomb of the Unknown Soldier", 
+    "longitude": -77.0723640918732, 
+    "address": [
+      "Memorial Dr"
+    ], 
+    "latitude": 38.8763904572735, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 237, 
+    "name": "Fiola Mare", 
+    "longitude": -77.060564, 
+    "address": [
+      "3050 K St NW", 
+      "Ste 101"
+    ], 
+    "latitude": 38.90223, 
+    "categories": [
+      "cocktail bars", 
+      "seafood", 
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 524, 
+    "name": "9:30 Club", 
+    "longitude": -77.023665130059, 
+    "address": [
+      "815 V St NW"
+    ], 
+    "latitude": 38.9178851722944, 
+    "categories": [
+      "bars", 
+      "dance clubs", 
+      "music venues"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 556, 
+    "name": "Rasika West End", 
+    "longitude": -77.0478002789335, 
+    "address": [
+      "1190 New Hampshire Ave NW"
+    ], 
+    "latitude": 38.90513484047, 
+    "categories": [
+      "indpak", 
+      "indian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 352, 
+    "name": "Peregrine Espresso", 
+    "longitude": -76.99639691171699, 
+    "address": [
+      "660 Pennsylvania Ave SE"
+    ], 
+    "latitude": 38.885536325450005, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 49, 
+    "name": "DC-Donuts", 
+    "longitude": -76.9962845, 
+    "address": [
+      "225 7th St SE"
+    ], 
+    "latitude": 38.887001, 
+    "categories": [
+      "donuts", 
+      "coffee", 
+      "food stands"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 370, 
+    "name": "Bakeshop", 
+    "longitude": -77.09272, 
+    "address": [
+      "1025 N Fillmore St", 
+      "Ste G"
+    ], 
+    "latitude": 38.885538, 
+    "categories": [
+      "bakeries", 
+      "desserts", 
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 362, 
+    "name": "Filter Coffeehouse & Espresso Bar", 
+    "longitude": -77.0450974, 
+    "address": [
+      "1726 20th St NW"
+    ], 
+    "latitude": 38.913681, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 270, 
+    "name": "Joe's Seafood, Prime Steak & Stone Crab", 
+    "longitude": -77.0336676, 
+    "address": [
+      "750 15th St NW"
+    ], 
+    "latitude": 38.8998116, 
+    "categories": [
+      "seafood", 
+      "steak"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 146, 
+    "name": "Crepes At The Market, Eastern Market", 
+    "longitude": -76.9961786270142, 
+    "address": [
+      "7th St SE and N Carolina Ave SE"
+    ], 
+    "latitude": 38.88735842456121, 
+    "categories": [
+      "creperies"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 476, 
+    "name": "St. Arnold's On Jefferson", 
+    "longitude": -77.042786, 
+    "address": [
+      "1827 Jefferson Pl NW"
+    ], 
+    "latitude": 38.906654, 
+    "categories": [
+      "pubs", 
+      "american (traditional)", 
+      "belgian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 81, 
+    "name": "Choupi", 
+    "longitude": -77.0710578560829, 
+    "address": [
+      "1900 North Lynn St"
+    ], 
+    "latitude": 38.8972932100296, 
+    "categories": [
+      "breakfast & brunch", 
+      "street vendors", 
+      "french"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 68, 
+    "name": "Three Fifty Bakery and Coffee Bar", 
+    "longitude": -77.038517, 
+    "address": [
+      "1926 17th St NW"
+    ], 
+    "latitude": 38.9166507, 
+    "categories": [
+      "bakeries", 
+      "desserts", 
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 96, 
+    "name": "&pizza", 
+    "longitude": -77.032417, 
+    "address": [
+      "1400 K St NW"
+    ], 
+    "latitude": 38.902133, 
+    "categories": [
+      "vegetarian", 
+      "vegan", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 326, 
+    "name": "Tosca", 
+    "longitude": -77.027298, 
+    "address": [
+      "1112 F St NW"
+    ], 
+    "latitude": 38.8972054, 
+    "categories": [
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 454, 
+    "name": "Fast Gourmet", 
+    "longitude": -77.032356262207, 
+    "address": [
+      "1400 W St NW"
+    ], 
+    "latitude": 38.919017791748, 
+    "categories": [
+      "burgers", 
+      "latin", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 94, 
+    "name": "Puddin'", 
+    "longitude": -77.0362967, 
+    "address": [
+      "Eastern Market"
+    ], 
+    "latitude": 38.9191485, 
+    "categories": [
+      "cajun", 
+      "food trucks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 134, 
+    "name": "Amsterdam Falafelshop", 
+    "longitude": -77.032364, 
+    "address": [
+      "1830 14th St NW"
+    ], 
+    "latitude": 38.915138, 
+    "categories": [
+      "falafel", 
+      "vegetarian", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 107, 
+    "name": "Kokeb Ethiopian Restaurant", 
+    "longitude": -77.022903, 
+    "address": [
+      "3013 Georgia Ave NW"
+    ], 
+    "latitude": 38.928611, 
+    "categories": [
+      "ethiopian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 30, 
+    "name": "Brick & Mortar", 
+    "longitude": -77.024902, 
+    "address": [
+      "918 F St"
+    ], 
+    "latitude": 38.896999, 
+    "categories": [
+      "pubs", 
+      "cocktail bars", 
+      "wine bars"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 137, 
+    "name": "National Arboretum", 
+    "longitude": -76.9598312, 
+    "address": [
+      "3501 New York Ave NE"
+    ], 
+    "latitude": 38.9166908, 
+    "categories": [
+      "gardens", 
+      "parks"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 1146, 
+    "name": "Kabob Palace", 
+    "longitude": -77.0532913, 
+    "address": [
+      "2315 S Eads St"
+    ], 
+    "latitude": 38.852951, 
+    "categories": [
+      "afghan", 
+      "pakistani"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 188, 
+    "name": "M E Swing Coffee Roasters", 
+    "longitude": -77.039992236546, 
+    "address": [
+      "1702 G St NW"
+    ], 
+    "latitude": 38.898233819304, 
+    "categories": [
+      "coffee", 
+      "delis"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 97, 
+    "name": "Theodore Roosevelt Island", 
+    "longitude": -77.06537961959839, 
+    "address": [
+      "George Washington Pkwy"
+    ], 
+    "latitude": 38.8963353214565, 
+    "categories": [
+      "parks"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 583, 
+    "name": "Barcelona 14th Street", 
+    "longitude": -77.0321732623178, 
+    "address": [
+      "1622 14th St NW"
+    ], 
+    "latitude": 38.9121988051732, 
+    "categories": [
+      "tapas/small plates", 
+      "tapasmallplates", 
+      "spanish", 
+      "wine bars"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 411, 
+    "name": "Tortino", 
+    "longitude": -77.027391, 
+    "address": [
+      "1228 11th St NW"
+    ], 
+    "latitude": 38.906536, 
+    "categories": [
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 265, 
+    "name": "Boundary Stone", 
+    "longitude": -77.012792823801, 
+    "address": [
+      "116 Rhode Island Ave NW"
+    ], 
+    "latitude": 38.915368820068, 
+    "categories": [
+      "pubs", 
+      "sandwiches", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 306, 
+    "name": "Donburi", 
+    "longitude": -77.0427017211914, 
+    "address": [
+      "2438 18th N W"
+    ], 
+    "latitude": 38.9216156005859, 
+    "categories": [
+      "japanese"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 5769, 
+    "name": "Founding Farmers", 
+    "longitude": -77.0446475212375, 
+    "address": [
+      "1924 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.9003166398788, 
+    "categories": [
+      "american (traditional)"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 81, 
+    "name": "Taqueria Habanero", 
+    "longitude": -77.033089, 
+    "address": [
+      "3710 14th St NW"
+    ], 
+    "latitude": 38.937553, 
+    "categories": [
+      "mexican"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 65, 
+    "name": "Cava Mezze Grill", 
+    "longitude": -77.022377, 
+    "address": [
+      "707 H St NW"
+    ], 
+    "latitude": 38.9000702, 
+    "categories": [
+      "greek", 
+      "mediterranean"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 155, 
+    "name": "Far East Taco Grille", 
+    "longitude": -77.0284509658813, 
+    "address": [
+      "Federal Triangle"
+    ], 
+    "latitude": 38.8943396257155, 
+    "categories": [
+      "asian fusion", 
+      "food trucks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 83, 
+    "name": "Pho Junkies", 
+    "longitude": -77.0076370239258, 
+    "address": [
+      "Union Station"
+    ], 
+    "latitude": 38.8984311591187, 
+    "categories": [
+      "street vendors", 
+      "vietnamese"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 979, 
+    "name": "El Pollo Rico", 
+    "longitude": -77.1007538, 
+    "address": [
+      "932 N Kenmore St"
+    ], 
+    "latitude": 38.8838997, 
+    "categories": [
+      "peruvian", 
+      "latin"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 3309, 
+    "name": "Old Ebbitt Grill", 
+    "longitude": -77.033269, 
+    "address": [
+      "675 15th St NW"
+    ], 
+    "latitude": 38.898139, 
+    "categories": [
+      "breakfast & brunch", 
+      "bars", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 30, 
+    "name": "Dram & Grain", 
+    "longitude": -77.041306, 
+    "address": [
+      "2007 18th St NW"
+    ], 
+    "latitude": 38.917397, 
+    "categories": [
+      "cocktail bars"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 221, 
+    "name": "White Apron Specialty Sandwiches", 
+    "longitude": -77.0268867626984, 
+    "address": [
+      "445 11th St NW"
+    ], 
+    "latitude": 38.8957126973629, 
+    "categories": [
+      "delis", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 104, 
+    "name": "Quill", 
+    "longitude": -77.036972, 
+    "address": [
+      "1200 16th St NW"
+    ], 
+    "latitude": 38.9059906, 
+    "categories": [
+      "bars", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 456, 
+    "name": "1789 Restaurant", 
+    "longitude": -77.0704523699829, 
+    "address": [
+      "1226 36th St NW"
+    ], 
+    "latitude": 38.9060759852994, 
+    "categories": [
+      "american (traditional)"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 222, 
+    "name": "Sushi Capitol", 
+    "longitude": -77.001264, 
+    "address": [
+      "325 Pennsylvania Ave SE"
+    ], 
+    "latitude": 38.886401, 
+    "categories": [
+      "sushi", 
+      "japanese"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 137, 
+    "name": "The Wydown Coffee Bar", 
+    "longitude": -77.032127, 
+    "address": [
+      "1924 14th St NW"
+    ], 
+    "latitude": 38.916606, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 96, 
+    "name": "Darnell's Bar", 
+    "longitude": -77.025253, 
+    "address": [
+      "944 Florida Ave NW"
+    ], 
+    "latitude": 38.919315, 
+    "categories": [
+      "dive bars", 
+      "lounges"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 591, 
+    "name": "Luke's Lobster", 
+    "longitude": -77.0205078, 
+    "address": [
+      "624 E St NW"
+    ], 
+    "latitude": 38.8959961, 
+    "categories": [
+      "seafood"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 586, 
+    "name": "City Tap House", 
+    "longitude": -77.0236283730791, 
+    "address": [
+      "901 I St NW"
+    ], 
+    "latitude": 38.9010558837917, 
+    "categories": [
+      "gastropubs", 
+      "bars", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 228, 
+    "name": "Food Corner Kabob House", 
+    "longitude": -77.0462189, 
+    "address": [
+      "2029 P St NW"
+    ], 
+    "latitude": 38.9099007, 
+    "categories": [
+      "afghan"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 501, 
+    "name": "Pearl Dive Oyster Palace", 
+    "longitude": -77.032363, 
+    "address": [
+      "1612 14th St NW"
+    ], 
+    "latitude": 38.911628, 
+    "categories": [
+      "breakfast & brunch", 
+      "seafood"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 77, 
+    "name": "Copycat Co", 
+    "longitude": -76.9910278320312, 
+    "address": [
+      "1110 H St NE"
+    ], 
+    "latitude": 38.9004554748535, 
+    "categories": [
+      "cocktail bars", 
+      "chinese"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 1082, 
+    "name": "Filomena Ristorante", 
+    "longitude": -77.062462, 
+    "address": [
+      "1063 Wisconsin Ave NW"
+    ], 
+    "latitude": 38.904404, 
+    "categories": [
+      "buffets", 
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 136, 
+    "name": "Rappahannock Oyster Bar", 
+    "longitude": -76.9978333, 
+    "address": [
+      "1309 5th St NE"
+    ], 
+    "latitude": 38.9087715, 
+    "categories": [
+      "seafood", 
+      "bars"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 319, 
+    "name": "SUNdeVICH", 
+    "longitude": -77.024359310674, 
+    "address": [
+      "1314 9th St NW"
+    ], 
+    "latitude": 38.90776373566, 
+    "categories": [
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 241, 
+    "name": "The Atlas Room", 
+    "longitude": -76.992084, 
+    "address": [
+      "1015 H St NE"
+    ], 
+    "latitude": 38.900084, 
+    "categories": [
+      "bars", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 69, 
+    "name": "Elizabeth's Gone Raw", 
+    "longitude": -77.03125, 
+    "address": [
+      "1341 L St NW"
+    ], 
+    "latitude": 38.904018, 
+    "categories": [
+      "raw_food", 
+      "live/raw food", 
+      "vegan"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 420, 
+    "name": "Bourbon Steak", 
+    "longitude": -77.057556, 
+    "address": [
+      "Four Seasons Garden Terrace", 
+      "2800 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.904488, 
+    "categories": [
+      "steak"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 27, 
+    "name": "Albert Einstein Memorial", 
+    "longitude": -77.047707, 
+    "address": [
+      "2101 Constitution Ave NW"
+    ], 
+    "latitude": 38.892944, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 265, 
+    "name": "Pedro & Vinny's", 
+    "longitude": -77.084671, 
+    "address": [
+      "2599 Columbia Pike"
+    ], 
+    "latitude": 38.8633194, 
+    "categories": [
+      "mexican", 
+      "food trucks"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 342, 
+    "name": "Fiola", 
+    "longitude": -77.020794, 
+    "address": [
+      "601 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.894039, 
+    "categories": [
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 43, 
+    "name": "Georgetown Waterfront Park", 
+    "longitude": -77.06318688688201, 
+    "address": [
+      "Potomac River", 
+      "3000 K St NW"
+    ], 
+    "latitude": 38.902425183455, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 169, 
+    "name": "ching ching CHA", 
+    "longitude": -77.062462, 
+    "address": [
+      "1063 Wisconsin Ave NW"
+    ], 
+    "latitude": 38.904404, 
+    "categories": [
+      "tea", 
+      "chinese"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 176, 
+    "name": "Dama Pastry and Restaurant", 
+    "longitude": -77.070549, 
+    "address": [
+      "1503 Columbia Pike"
+    ], 
+    "latitude": 38.8670006, 
+    "categories": [
+      "ethiopian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 50, 
+    "name": "Harrar Coffee & Roastery", 
+    "longitude": -77.0232442503307, 
+    "address": [
+      "2904 Georgia Ave NW"
+    ], 
+    "latitude": 38.9273769324706, 
+    "categories": [
+      "coffee", 
+      "ethiopian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 140, 
+    "name": "Mangialardo & Sons", 
+    "longitude": -76.987749, 
+    "address": [
+      "1317 Pennsylvania Ave SE"
+    ], 
+    "latitude": 38.880844, 
+    "categories": [
+      "sandwiches", 
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 67, 
+    "name": "Sankofa Bookstore and Cafe", 
+    "longitude": -77.02315, 
+    "address": [
+      "2714 Georgia Ave NW"
+    ], 
+    "latitude": 38.925561, 
+    "categories": [
+      "beer, wine & spirits", 
+      "coffee", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 109, 
+    "name": "KoChix", 
+    "longitude": -77.0163538679481, 
+    "address": [
+      "400 Florida Ave NW"
+    ], 
+    "latitude": 38.9137428308672, 
+    "categories": [
+      "korean"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 121, 
+    "name": "Pedro and Vinny's", 
+    "longitude": -77.034803148323, 
+    "address": [
+      "1500 K St NW"
+    ], 
+    "latitude": 38.902375082285, 
+    "categories": [
+      "vegetarian", 
+      "mexican", 
+      "food trucks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 98, 
+    "name": "Lot 38 Espresso Bar", 
+    "longitude": -77.0036673545837, 
+    "address": [
+      "1001 2nd St SE"
+    ], 
+    "latitude": 38.8776829823059, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 151, 
+    "name": "Fish in the Hood", 
+    "longitude": -77.023758, 
+    "address": [
+      "3601 Georgia Ave NW"
+    ], 
+    "latitude": 38.93465, 
+    "categories": [
+      "seafood", 
+      "southern"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 160, 
+    "name": "Cava Mezze Grill", 
+    "longitude": -77.032509373283, 
+    "address": [
+      "3105 14th St NW"
+    ], 
+    "latitude": 38.929320637882, 
+    "categories": [
+      "greek", 
+      "vegetarian", 
+      "gluten_free", 
+      "gluten-free"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 77, 
+    "name": "City Place Cafe", 
+    "longitude": -77.0380936, 
+    "address": [
+      "1101 17th St NW"
+    ], 
+    "latitude": 38.90411, 
+    "categories": [
+      "mediterranean", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 321, 
+    "name": "Siroc Restaurant", 
+    "longitude": -77.033287, 
+    "address": [
+      "915 15th St NW"
+    ], 
+    "latitude": 38.901821, 
+    "categories": [
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 320, 
+    "name": "Duke's Grocery", 
+    "longitude": -77.038134, 
+    "address": [
+      "1513 17th St NW"
+    ], 
+    "latitude": 38.9101969, 
+    "categories": [
+      "bars", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 90, 
+    "name": "Compass Coffee", 
+    "longitude": -77.0215683, 
+    "address": [
+      "1535 7th St NW"
+    ], 
+    "latitude": 38.9105988, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 475, 
+    "name": "BLT Steak", 
+    "longitude": -77.037552, 
+    "address": [
+      "1625 I St NW"
+    ], 
+    "latitude": 38.901688, 
+    "categories": [
+      "steak", 
+      "bars"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 50, 
+    "name": "Denson Liquor Bar", 
+    "longitude": -77.0201263427734, 
+    "address": [
+      "600 F St NW"
+    ], 
+    "latitude": 38.8970680236816, 
+    "categories": [
+      "cocktail bars"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 1121, 
+    "name": "Tabard Inn Restaurant", 
+    "longitude": -77.0399932861328, 
+    "address": [
+      "1739 N St NW"
+    ], 
+    "latitude": 38.9075241088867, 
+    "categories": [
+      "american (traditional)", 
+      "breakfast & brunch"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 267, 
+    "name": "The Red Hen", 
+    "longitude": -77.0121723, 
+    "address": [
+      "1822 1st St NW"
+    ], 
+    "latitude": 38.9148374, 
+    "categories": [
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 1177, 
+    "name": "Toki Underground", 
+    "longitude": -76.9890601862829, 
+    "address": [
+      "1234 H St NE"
+    ], 
+    "latitude": 38.9002596732333, 
+    "categories": [
+      "ramen", 
+      "taiwanese"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 379, 
+    "name": "Pho Viet", 
+    "longitude": -77.0323792, 
+    "address": [
+      "3513 14th St NW"
+    ], 
+    "latitude": 38.9350891, 
+    "categories": [
+      "vietnamese"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 83, 
+    "name": "National Postal Museum", 
+    "longitude": -77.008186, 
+    "address": [
+      "2 Massachusetts Ave NE"
+    ], 
+    "latitude": 38.89817, 
+    "categories": [
+      "museums", 
+      "landmarks", 
+      "galleries"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 753, 
+    "name": "Birch & Barley", 
+    "longitude": -77.0315798067514, 
+    "address": [
+      "1337 14th St NW"
+    ], 
+    "latitude": 38.9084866130077, 
+    "categories": [
+      "breakfast & brunch", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 670, 
+    "name": "Estadio", 
+    "longitude": -77.032125473756, 
+    "address": [
+      "1520 14th St NW"
+    ], 
+    "latitude": 38.909976620016, 
+    "categories": [
+      "tapas/small plates", 
+      "tapasmallplates", 
+      "spanish"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 701, 
+    "name": "Proof Restaurant", 
+    "longitude": -77.0225754, 
+    "address": [
+      "775 G St NW"
+    ], 
+    "latitude": 38.8985825, 
+    "categories": [
+      "wine bars", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 842, 
+    "name": "il Canale", 
+    "longitude": -77.060944, 
+    "address": [
+      "1063 31st St NW"
+    ], 
+    "latitude": 38.904404, 
+    "categories": [
+      "pizza", 
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 179, 
+    "name": "Roti Mediterranean Grill", 
+    "longitude": -77.040947, 
+    "address": [
+      "1747 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.8996582, 
+    "categories": [
+      "mediterranean"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 364, 
+    "name": "Vace", 
+    "longitude": -77.0572900772095, 
+    "address": [
+      "3315 Connecticut Ave NW"
+    ], 
+    "latitude": 38.9340759716828, 
+    "categories": [
+      "delis", 
+      "italian", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 53, 
+    "name": "Spice", 
+    "longitude": -77.094757, 
+    "address": [
+      "3033 Wilson Blvd"
+    ], 
+    "latitude": 38.887937, 
+    "categories": [
+      "mediterranean", 
+      "sandwiches", 
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 954, 
+    "name": "ChurchKey", 
+    "longitude": -77.0314789, 
+    "address": [
+      "1337 14th St NW", 
+      "2nd Fl"
+    ], 
+    "latitude": 38.9084816, 
+    "categories": [
+      "lounges", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 106, 
+    "name": "Bacio Pizzeria", 
+    "longitude": -77.011701, 
+    "address": [
+      "81 Seaton Pl NW"
+    ], 
+    "latitude": 38.91494, 
+    "categories": [
+      "italian", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 1231, 
+    "name": "Ray's The Steaks", 
+    "longitude": -77.0867072045803, 
+    "address": [
+      "The Navy League Building", 
+      "2300 Wilson Blvd"
+    ], 
+    "latitude": 38.8909269869328, 
+    "categories": [
+      "steak"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 834, 
+    "name": "Cava Mezze", 
+    "longitude": -76.9953384, 
+    "address": [
+      "527 8th St SE"
+    ], 
+    "latitude": 38.8818817, 
+    "categories": [
+      "tapas/small plates", 
+      "greek", 
+      "tapasmallplates"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 176, 
+    "name": "Bulgogi Cart", 
+    "longitude": -77.0320636032104, 
+    "address": [
+      "1400 L St"
+    ], 
+    "latitude": 38.9037735542227, 
+    "categories": [
+      "korean", 
+      "food stands"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 94, 
+    "name": "Native Foods Cafe", 
+    "longitude": -77.022384, 
+    "address": [
+      "701 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.894424, 
+    "categories": [
+      "vegetarian", 
+      "vegan"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 132, 
+    "name": "MGM Roast Beef", 
+    "longitude": -76.9933701, 
+    "address": [
+      "905 Brentwood Road NE"
+    ], 
+    "latitude": 38.9173851, 
+    "categories": [
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 734, 
+    "name": "The Pig", 
+    "longitude": -77.032372, 
+    "address": [
+      "1320 14th St NW"
+    ], 
+    "latitude": 38.907948, 
+    "categories": [
+      "american (traditional)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 634, 
+    "name": "District Taco", 
+    "longitude": -77.030158996582, 
+    "address": [
+      "1309 F St NW"
+    ], 
+    "latitude": 38.8975982666016, 
+    "categories": [
+      "mexican"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 75, 
+    "name": "The Celtic House Irish Pub & Restaurant", 
+    "longitude": -77.0842972, 
+    "address": [
+      "2500 Columbia Pike"
+    ], 
+    "latitude": 38.8629913, 
+    "categories": [
+      "irish"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 183, 
+    "name": "Politics & Prose", 
+    "longitude": -77.0695495605469, 
+    "address": [
+      "5015 Connecticut Ave NW"
+    ], 
+    "latitude": 38.9555015563965, 
+    "categories": [
+      "coffee", 
+      "bookstores"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 399, 
+    "name": "Tortilla Cafe", 
+    "longitude": -76.995811, 
+    "address": [
+      "210 7th St SE"
+    ], 
+    "latitude": 38.886967, 
+    "categories": [
+      "latin", 
+      "mexican"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 210, 
+    "name": "So's Your Mom", 
+    "longitude": -77.0438309, 
+    "address": [
+      "1831 Columbia Rd NW"
+    ], 
+    "latitude": 38.921711, 
+    "categories": [
+      "gourmet", 
+      "delis", 
+      "sandwiches", 
+      "specialty food"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 52, 
+    "name": "Water Park Cafe", 
+    "longitude": -77.0487920575212, 
+    "address": [
+      "1601 Crystal Dr"
+    ], 
+    "latitude": 38.8584079912071, 
+    "categories": [
+      "street vendors", 
+      "egyptian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 1034, 
+    "name": "Brasserie Beck", 
+    "longitude": -77.027234484939, 
+    "address": [
+      "1101 K St NW"
+    ], 
+    "latitude": 38.902816620504, 
+    "categories": [
+      "modern european", 
+      "belgian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 140, 
+    "name": "The Coffee Bar", 
+    "longitude": -77.028282, 
+    "address": [
+      "1201 S St NW"
+    ], 
+    "latitude": 38.914322, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 1005, 
+    "name": "Tryst", 
+    "longitude": -77.0422974, 
+    "address": [
+      "2459 18th St NW"
+    ], 
+    "latitude": 38.9221153, 
+    "categories": [
+      "american (traditional)", 
+      "coffee", 
+      "lounges"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 634, 
+    "name": "The Italian Store", 
+    "longitude": -77.0963516, 
+    "address": [
+      "3123 Lee Hwy"
+    ], 
+    "latitude": 38.8966293, 
+    "categories": [
+      "delis", 
+      "pizza", 
+      "grocery", 
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 665, 
+    "name": "The Gibson", 
+    "longitude": -77.031585, 
+    "address": [
+      "2009 14th St NW"
+    ], 
+    "latitude": 38.917369, 
+    "categories": [
+      "lounges"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 160, 
+    "name": "Triple B Fresh", 
+    "longitude": -77.0436065962981, 
+    "address": [
+      "1506 19th St NW"
+    ], 
+    "latitude": 38.9107260170919, 
+    "categories": [
+      "korean", 
+      "vegetarian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 731, 
+    "name": "Sakuramen", 
+    "longitude": -77.041985, 
+    "address": [
+      "2441 18th St NW"
+    ], 
+    "latitude": 38.92157, 
+    "categories": [
+      "asian fusion", 
+      "korean", 
+      "ramen"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 873, 
+    "name": "Central Michel Richard", 
+    "longitude": -77.0269938325748, 
+    "address": [
+      "1001 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.8948927048723, 
+    "categories": [
+      "bars", 
+      "french", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 382, 
+    "name": "Red Derby", 
+    "longitude": -77.0328196, 
+    "address": [
+      "3718 14th St NW"
+    ], 
+    "latitude": 38.9377212, 
+    "categories": [
+      "breakfast & brunch", 
+      "dive bars", 
+      "burgers"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 782, 
+    "name": "Hank's Oyster Bar", 
+    "longitude": -77.038207, 
+    "address": [
+      "1624 Q St NW"
+    ], 
+    "latitude": 38.9109878, 
+    "categories": [
+      "seafood", 
+      "lounges"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 461, 
+    "name": "Boqueria", 
+    "longitude": -77.0431399, 
+    "address": [
+      "1837 M Street NW"
+    ], 
+    "latitude": 38.905921, 
+    "categories": [
+      "tapas", 
+      "spanish"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 368, 
+    "name": "Bistro Cacao", 
+    "longitude": -77.000959, 
+    "address": [
+      "320 Massachusetts Ave NE"
+    ], 
+    "latitude": 38.894502, 
+    "categories": [
+      "brasseries", 
+      "french"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 159, 
+    "name": "Le Mirch", 
+    "longitude": -77.046171, 
+    "address": [
+      "1736 Connecticut Ave NW"
+    ], 
+    "latitude": 38.913702, 
+    "categories": [
+      "indpak", 
+      "indian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 231, 
+    "name": "El Rinconcito Cafe", 
+    "longitude": -77.0266571, 
+    "address": [
+      "1129 11th St NW"
+    ], 
+    "latitude": 38.9054489, 
+    "categories": [
+      "latin"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 311, 
+    "name": "Makoto Restaurant", 
+    "longitude": -77.0963974, 
+    "address": [
+      "4822 MacArthur Blvd NW"
+    ], 
+    "latitude": 38.9166908, 
+    "categories": [
+      "japanese"
+    ]
+  }, 
+  {
+    "rating": 5.0, 
+    "review_count": 12, 
+    "name": "Henry the IV Part I Presented by the Shakespeare Theatre Company", 
+    "longitude": -77.0204687, 
+    "address": [
+      "610 F St NW"
+    ], 
+    "latitude": 38.8971453, 
+    "categories": [
+      "yelp events"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 978, 
+    "name": "Pho 75", 
+    "longitude": -77.0788574, 
+    "address": [
+      "1721 Wilson Blvd"
+    ], 
+    "latitude": 38.8941917, 
+    "categories": [
+      "vietnamese"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 180, 
+    "name": "Luke's Lobster", 
+    "longitude": -77.065017, 
+    "address": [
+      "1211 Potomac St NW"
+    ], 
+    "latitude": 38.9055279, 
+    "categories": [
+      "seafood"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 1114, 
+    "name": "Co Co Sala", 
+    "longitude": -77.0251846, 
+    "address": [
+      "929 F St NW"
+    ], 
+    "latitude": 38.8974762, 
+    "categories": [
+      "chocolate", 
+      "lounges", 
+      "chocolatiers & shops", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 386, 
+    "name": "Acqua Al 2", 
+    "longitude": -76.9960346, 
+    "address": [
+      "212 7th St SE"
+    ], 
+    "latitude": 38.8868532, 
+    "categories": [
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 78, 
+    "name": "Korean Food Cart", 
+    "longitude": -77.0330582, 
+    "address": [
+      "1425 K St NW"
+    ], 
+    "latitude": 38.9029083, 
+    "categories": [
+      "korean", 
+      "food stands"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 208, 
+    "name": "Mi Cuba Cafe", 
+    "longitude": -77.033288, 
+    "address": [
+      "1424 Park Rd NW"
+    ], 
+    "latitude": 38.9304468, 
+    "categories": [
+      "cuban"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 234, 
+    "name": "Oby Lee", 
+    "longitude": -77.0942601, 
+    "address": [
+      "The Reserve At Clarendon Centre", 
+      "3000 N Washington Blvd"
+    ], 
+    "latitude": 38.8850163, 
+    "categories": [
+      "coffee", 
+      "gluten_free", 
+      "wineries", 
+      "gluten-free"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 2244, 
+    "name": "Matchbox Chinatown", 
+    "longitude": -77.0225372, 
+    "address": [
+      "713 H St NW"
+    ], 
+    "latitude": 38.9000511, 
+    "categories": [
+      "bars", 
+      "american (new)", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 189, 
+    "name": "Chop't Creative Salad Company", 
+    "longitude": -77.0281084117056, 
+    "address": [
+      "618 12th St NW"
+    ], 
+    "latitude": 38.8979067521453, 
+    "categories": [
+      "sandwiches", 
+      "salad"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 81, 
+    "name": "Harold Black", 
+    "longitude": -76.995808, 
+    "address": [
+      "212 7th St SE"
+    ], 
+    "latitude": 38.886856, 
+    "categories": [
+      "cocktail bars", 
+      "lounges"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 57, 
+    "name": "Woodward Takeout Food", 
+    "longitude": -77.0329132, 
+    "address": [
+      "1426 H St NW"
+    ], 
+    "latitude": 38.9000664, 
+    "categories": [
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 194, 
+    "name": "Dan's Cafe", 
+    "longitude": -77.041496, 
+    "address": [
+      "2315 18th St NW"
+    ], 
+    "latitude": 38.920113, 
+    "categories": [
+      "dive bars", 
+      "restaurants"
+    ]
+  }, 
+  {
+    "rating": 5.0, 
+    "review_count": 12, 
+    "name": "CMYE: Yelp's Taste of the Philippines at Purple Patch", 
+    "longitude": -77.0376205, 
+    "address": [
+      "3155 Mt Pleasant St NW"
+    ], 
+    "latitude": 38.9305687, 
+    "categories": [
+      "yelp events"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 393, 
+    "name": "Galaxy Hut", 
+    "longitude": -77.090933, 
+    "address": [
+      "2711 Wilson Blvd"
+    ], 
+    "latitude": 38.8895389, 
+    "categories": [
+      "vegetarian", 
+      "dive bars", 
+      "music venues"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 233, 
+    "name": "Las Canteras", 
+    "longitude": -77.0414428710938, 
+    "address": [
+      "2307 18th St NW", 
+      "Adams Morgan"
+    ], 
+    "latitude": 38.9199523925781, 
+    "categories": [
+      "peruvian", 
+      "latin"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 1237, 
+    "name": "Busboys and Poets", 
+    "longitude": -77.0317790820735, 
+    "address": [
+      "2021 14th St NW"
+    ], 
+    "latitude": 38.9179629102425, 
+    "categories": [
+      "breakfast & brunch", 
+      "coffee", 
+      "vegan"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 82, 
+    "name": "Maketto", 
+    "longitude": -76.9866562, 
+    "address": [
+      "1351 H St NE"
+    ], 
+    "latitude": 38.8999214, 
+    "categories": [
+      "cafes", 
+      "shopping centers"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 204, 
+    "name": "Astor Mediterranean", 
+    "longitude": -77.043808, 
+    "address": [
+      "1829 Columbia Rd NW"
+    ], 
+    "latitude": 38.9217491, 
+    "categories": [
+      "greek", 
+      "mediterranean", 
+      "middle eastern", 
+      "mideastern"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 148, 
+    "name": "Thip Khao", 
+    "longitude": -77.0328522, 
+    "address": [
+      "3462 14th St NW"
+    ], 
+    "latitude": 38.9329414, 
+    "categories": [
+      "laotian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 154, 
+    "name": "U.S. Capitol Visitor Center", 
+    "longitude": -77.0071086719297, 
+    "address": [
+      "East Capitol St, NE and 1st St, NE"
+    ], 
+    "latitude": 38.8900513902876, 
+    "categories": [
+      "museums", 
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 48, 
+    "name": "Pentagon Memorial", 
+    "longitude": -77.059426280025, 
+    "address": [
+      "1 Rotary Rd"
+    ], 
+    "latitude": 38.869727221572, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 878, 
+    "name": "Acadiana", 
+    "longitude": -77.024475868215, 
+    "address": [
+      "901 New York Ave NW"
+    ], 
+    "latitude": 38.902252636206, 
+    "categories": [
+      "cajun"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 619, 
+    "name": "Black Salt", 
+    "longitude": -77.096481, 
+    "address": [
+      "4883 MacArthur Blvd NW"
+    ], 
+    "latitude": 38.91787, 
+    "categories": [
+      "bars", 
+      "seafood", 
+      "breakfast & brunch"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 106, 
+    "name": "LeoNora Bakery", 
+    "longitude": -77.097106594015, 
+    "address": [
+      "1108 N Irving St"
+    ], 
+    "latitude": 38.886320812431, 
+    "categories": [
+      "bakeries", 
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 79, 
+    "name": "Habesha Market and Carry-out", 
+    "longitude": -77.0236587524414, 
+    "address": [
+      "1919 9th St NW"
+    ], 
+    "latitude": 38.9163589477539, 
+    "categories": [
+      "ethiopian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 554, 
+    "name": "Cava Mezze", 
+    "longitude": -77.0934710651636, 
+    "address": [
+      "2940 Clarendon Blvd"
+    ], 
+    "latitude": 38.8876734673977, 
+    "categories": [
+      "tapas/small plates", 
+      "tapasmallplates", 
+      "greek"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 230, 
+    "name": "Izakaya Seki", 
+    "longitude": -77.0277863, 
+    "address": [
+      "1117 V St NW"
+    ], 
+    "latitude": 38.9183197, 
+    "categories": [
+      "japanese"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 21, 
+    "name": "Nonna's Kitchen", 
+    "longitude": -77.0285797119141, 
+    "address": [
+      "1212 U St NW"
+    ], 
+    "latitude": 38.9167366027832, 
+    "categories": [
+      "bars", 
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 141, 
+    "name": "Fettoosh", 
+    "longitude": -77.122139, 
+    "address": [
+      "5100 Wilson Blvd"
+    ], 
+    "latitude": 38.877938, 
+    "categories": [
+      "mideastern", 
+      "middle eastern", 
+      "moroccan"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 228, 
+    "name": "Mari Vanna", 
+    "longitude": -77.0404587, 
+    "address": [
+      "1141 Connecticut Ave NW"
+    ], 
+    "latitude": 38.9051704, 
+    "categories": [
+      "russian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 548, 
+    "name": "Julia's Empanadas", 
+    "longitude": -77.041168, 
+    "address": [
+      "1221 Connecticut Ave NW"
+    ], 
+    "latitude": 38.906624, 
+    "categories": [
+      "latin"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 309, 
+    "name": "Astor Mediterranean", 
+    "longitude": -77.086176, 
+    "address": [
+      "2300 N Pershing Dr"
+    ], 
+    "latitude": 38.880594, 
+    "categories": [
+      "greek", 
+      "mediterranean"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 398, 
+    "name": "Ambar", 
+    "longitude": -76.995338, 
+    "address": [
+      "523 8th St SE"
+    ], 
+    "latitude": 38.882022, 
+    "categories": [
+      "modern european"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 992, 
+    "name": "Pupatella", 
+    "longitude": -77.1223423629999, 
+    "address": [
+      "5104 Wilson Blvd"
+    ], 
+    "latitude": 38.8778411597013, 
+    "categories": [
+      "italian", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 622, 
+    "name": "Matchbox Capitol Hill", 
+    "longitude": -76.995338, 
+    "address": [
+      "521 8th St SE"
+    ], 
+    "latitude": 38.882095, 
+    "categories": [
+      "american (new)", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 410, 
+    "name": "Union Station", 
+    "longitude": -77.00621, 
+    "address": [
+      "50 Massachusetts Ave NE"
+    ], 
+    "latitude": 38.897502, 
+    "categories": [
+      "train stations", 
+      "landmarks", 
+      "public transportation", 
+      "publictransport"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 1191, 
+    "name": "Bistrot Du Coin", 
+    "longitude": -77.046112, 
+    "address": [
+      "1738 Connecticut Ave NW"
+    ], 
+    "latitude": 38.913852, 
+    "categories": [
+      "french", 
+      "belgian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 538, 
+    "name": "Nando's Peri-Peri", 
+    "longitude": -77.041836565245, 
+    "address": [
+      "1210 18th St NW"
+    ], 
+    "latitude": 38.9061932661934, 
+    "categories": [
+      "portuguese", 
+      "south african"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 122, 
+    "name": "Off The Record", 
+    "longitude": -77.0365190505981, 
+    "address": [
+      "The  Hay-Adams", 
+      "800 16th St NW"
+    ], 
+    "latitude": 38.9003014958759, 
+    "categories": [
+      "bars", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 422, 
+    "name": "Cheesetique", 
+    "longitude": -77.0587006, 
+    "address": [
+      "2411 Mount Vernon Ave"
+    ], 
+    "latitude": 38.8272705, 
+    "categories": [
+      "cheese", 
+      "bars", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 296, 
+    "name": "Tico", 
+    "longitude": -77.032394, 
+    "address": [
+      "1926 14th St NW"
+    ], 
+    "latitude": 38.916444, 
+    "categories": [
+      "tapas/small plates", 
+      "tapasmallplates", 
+      "latin", 
+      "mexican"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 230, 
+    "name": "The Queen Vic", 
+    "longitude": -76.989861, 
+    "address": [
+      "1206 H St NE"
+    ], 
+    "latitude": 38.900417, 
+    "categories": [
+      "pubs", 
+      "fish & chips", 
+      "british"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 119, 
+    "name": "Carving Room", 
+    "longitude": -77.0159978837029, 
+    "address": [
+      "300 Massachusetts Ave NW"
+    ], 
+    "latitude": 38.8992582619176, 
+    "categories": [
+      "beer, wine & spirits", 
+      "delis"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 184, 
+    "name": "Board Room", 
+    "longitude": -77.045326, 
+    "address": [
+      "1737 Connecticut Ave NW"
+    ], 
+    "latitude": 38.91367, 
+    "categories": [
+      "lounges", 
+      "sports bars"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 108, 
+    "name": "West Wing Cafe", 
+    "longitude": -77.027985, 
+    "address": [
+      "1111 Pennsylvania Ave"
+    ], 
+    "latitude": 38.895459, 
+    "categories": [
+      "delis", 
+      "coffee", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 181, 
+    "name": "Qualia Coffee", 
+    "longitude": -77.024483, 
+    "address": [
+      "3917 Georgia Ave NW"
+    ], 
+    "latitude": 38.939198, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 54, 
+    "name": "The Yards Park", 
+    "longitude": -77.0011209324002, 
+    "address": [
+      "355 Water St SE"
+    ], 
+    "latitude": 38.8736210545083, 
+    "categories": [
+      "venues", 
+      "parks"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 175, 
+    "name": "Four Sisters Grill", 
+    "longitude": -77.0943398, 
+    "address": [
+      "3035 Clarendon Blvd"
+    ], 
+    "latitude": 38.8872882, 
+    "categories": [
+      "vietnamese"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 748, 
+    "name": "Pizzeria Paradiso", 
+    "longitude": -77.0451466967047, 
+    "address": [
+      "2003 P St NW"
+    ], 
+    "latitude": 38.9098109186293, 
+    "categories": [
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 319, 
+    "name": "El Chal\u00e1n", 
+    "longitude": -77.0445709, 
+    "address": [
+      "1924 I St NW"
+    ], 
+    "latitude": 38.9011383, 
+    "categories": [
+      "peruvian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 147, 
+    "name": "Blues Alley", 
+    "longitude": -77.0621609687805, 
+    "address": [
+      "1073 Wisconsin Ave NW"
+    ], 
+    "latitude": 38.9046849046108, 
+    "categories": [
+      "jazzandblues", 
+      "cajun", 
+      "jazz & blues"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 501, 
+    "name": "Ted's Bulletin", 
+    "longitude": -77.0319534, 
+    "address": [
+      "1818 14th St NW"
+    ], 
+    "latitude": 38.9140919, 
+    "categories": [
+      "breakfast & brunch", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 85, 
+    "name": "Yamas", 
+    "longitude": -77.0367821, 
+    "address": [
+      "1946 New Hampshire Ave NW"
+    ], 
+    "latitude": 38.9167614, 
+    "categories": [
+      "greek", 
+      "mediterranean"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 389, 
+    "name": "Ethiopic", 
+    "longitude": -77.0003890991211, 
+    "address": [
+      "401 H St NE"
+    ], 
+    "latitude": 38.8999481201172, 
+    "categories": [
+      "ethiopian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 303, 
+    "name": "The Greek Spot", 
+    "longitude": -77.026665, 
+    "address": [
+      "2017 11th St NW"
+    ], 
+    "latitude": 38.917545, 
+    "categories": [
+      "greek", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 268, 
+    "name": "Right Proper Brewing Company", 
+    "longitude": -77.021347, 
+    "address": [
+      "624 T St NW"
+    ], 
+    "latitude": 38.9153595, 
+    "categories": [
+      "gastropubs", 
+      "breweries"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 130, 
+    "name": "Slipstream", 
+    "longitude": -77.031494, 
+    "address": [
+      "1333 14th St NW"
+    ], 
+    "latitude": 38.908363, 
+    "categories": [
+      "coffee", 
+      "american (new)", 
+      "cocktail bars"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 112, 
+    "name": "Plume", 
+    "longitude": -77.03682, 
+    "address": [
+      "1200 16th St NW"
+    ], 
+    "latitude": 38.9058902, 
+    "categories": [
+      "american (traditional)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 286, 
+    "name": "Seventh Hill", 
+    "longitude": -76.996468, 
+    "address": [
+      "327 7th St SE"
+    ], 
+    "latitude": 38.885353, 
+    "categories": [
+      "vegetarian", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 199, 
+    "name": "Market Lunch", 
+    "longitude": -76.9962845, 
+    "address": [
+      "225 7th St SE"
+    ], 
+    "latitude": 38.887001, 
+    "categories": [
+      "breakfast & brunch", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 258, 
+    "name": "Little Miss Whiskey's Golden Dollar", 
+    "longitude": -76.9912109, 
+    "address": [
+      "1104 H St NE"
+    ], 
+    "latitude": 38.9004288, 
+    "categories": [
+      "bars"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 165, 
+    "name": "Salt and Pepper Grill", 
+    "longitude": -77.022987, 
+    "address": [
+      "2632 Georgia Ave NW"
+    ], 
+    "latitude": 38.925006, 
+    "categories": [
+      "indpak", 
+      "indian", 
+      "pakistani"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 38, 
+    "name": "McClellan's Retreat", 
+    "longitude": -77.0465775, 
+    "address": [
+      "2031 Florida Ave NW"
+    ], 
+    "latitude": 38.9143105, 
+    "categories": [
+      "bars"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 101, 
+    "name": "Dino's Grotto", 
+    "longitude": -77.024284362793, 
+    "address": [
+      "1914 9th St NW"
+    ], 
+    "latitude": 38.9160346984863, 
+    "categories": [
+      "wine bars", 
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 221, 
+    "name": "nopa Kitchen + Bar", 
+    "longitude": -77.0234202785273, 
+    "address": [
+      "800 F St NW"
+    ], 
+    "latitude": 38.8971359261436, 
+    "categories": [
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 207, 
+    "name": "Unum", 
+    "longitude": -77.0587006, 
+    "address": [
+      "2917 M St NW"
+    ], 
+    "latitude": 38.9053574, 
+    "categories": [
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 69, 
+    "name": "Jardenea", 
+    "longitude": -77.052698135376, 
+    "address": [
+      "2430 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.9032571954831, 
+    "categories": [
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 82, 
+    "name": "Exorcist Stairs", 
+    "longitude": -77.0701981, 
+    "address": [
+      "36th St NW and M St NW"
+    ], 
+    "latitude": 38.9050407, 
+    "categories": [
+      "local flavor"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 72, 
+    "name": "Kafe Bohem", 
+    "longitude": -77.0202152431011, 
+    "address": [
+      "606 Florida Ave NW"
+    ], 
+    "latitude": 38.9153625904798, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 968, 
+    "name": "Farmers Fishers Bakers", 
+    "longitude": -77.0600204467773, 
+    "address": [
+      "3000 K St NW"
+    ], 
+    "latitude": 38.901741027832, 
+    "categories": [
+      "sushi", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 210, 
+    "name": "Red Toque Cafe", 
+    "longitude": -77.0197463859598, 
+    "address": [
+      "1701 6th St NW"
+    ], 
+    "latitude": 38.9128092090251, 
+    "categories": [
+      "indpak", 
+      "indian", 
+      "mediterranean"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 172, 
+    "name": "Toro Toro", 
+    "longitude": -77.0300903, 
+    "address": [
+      "1300 I (Eye) Street NW"
+    ], 
+    "latitude": 38.9011955, 
+    "categories": [
+      "latin"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 367, 
+    "name": "El Charrito Caminante", 
+    "longitude": -77.0903563499451, 
+    "address": [
+      "2710-A N Washington Blvd"
+    ], 
+    "latitude": 38.8798420104617, 
+    "categories": [
+      "latin", 
+      "mexican"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 447, 
+    "name": "Montmartre", 
+    "longitude": -76.996468, 
+    "address": [
+      "327 7th St SE"
+    ], 
+    "latitude": 38.885353, 
+    "categories": [
+      "french"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 65, 
+    "name": "Tony's Breakfast", 
+    "longitude": -76.985722, 
+    "address": [
+      "1387 H St NE"
+    ], 
+    "latitude": 38.899932, 
+    "categories": [
+      "american (traditional)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 678, 
+    "name": "District of Pi", 
+    "longitude": -77.0244675, 
+    "address": [
+      "910 F St NW"
+    ], 
+    "latitude": 38.8972054, 
+    "categories": [
+      "gluten_free", 
+      "gluten-free", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 410, 
+    "name": "Chinatown Coffee Co.", 
+    "longitude": -77.0186386, 
+    "address": [
+      "475 H St NW"
+    ], 
+    "latitude": 38.9000893, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 67, 
+    "name": "Jackpot", 
+    "longitude": -77.0222228765488, 
+    "address": [
+      "726 7th St NW"
+    ], 
+    "latitude": 38.8993232804105, 
+    "categories": [
+      "bars"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 149, 
+    "name": "Pret A Manger", 
+    "longitude": -77.0422363, 
+    "address": [
+      "1825 Eye Street, NW"
+    ], 
+    "latitude": 38.9014664, 
+    "categories": [
+      "breakfast & brunch", 
+      "coffee", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 215, 
+    "name": "Grand Trunk", 
+    "longitude": -77.021568, 
+    "address": [
+      "641 Indiana Ave NW"
+    ], 
+    "latitude": 38.894283, 
+    "categories": [
+      "asian fusion", 
+      "indpak", 
+      "pakistani", 
+      "indian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 90, 
+    "name": "Ristorante La Perla of Washington", 
+    "longitude": -77.0549042522907, 
+    "address": [
+      "2600 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.9041462540627, 
+    "categories": [
+      "seafood", 
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 38, 
+    "name": "Meats & Foods", 
+    "longitude": -77.015579, 
+    "address": [
+      "247 Florida Ave NW"
+    ], 
+    "latitude": 38.913835, 
+    "categories": [
+      "meat shops", 
+      "sandwiches", 
+      "meats"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 293, 
+    "name": "Panas", 
+    "longitude": -77.046286, 
+    "address": [
+      "2029 P St NW"
+    ], 
+    "latitude": 38.910304, 
+    "categories": [
+      "latin"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 501, 
+    "name": "The Source", 
+    "longitude": -77.0197588125036, 
+    "address": [
+      "575 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.8932458913455, 
+    "categories": [
+      "asian fusion", 
+      "dim sum", 
+      "japanese"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 68, 
+    "name": "Penn Grill", 
+    "longitude": -77.044700490488, 
+    "address": [
+      "825 20th St NW"
+    ], 
+    "latitude": 38.901117585882, 
+    "categories": [
+      "delis", 
+      "sandwiches", 
+      "chinese"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 364, 
+    "name": "Mintwood Place", 
+    "longitude": -77.0434449, 
+    "address": [
+      "1813 Columbia Rd NW"
+    ], 
+    "latitude": 38.9220912, 
+    "categories": [
+      "french", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 794, 
+    "name": "Sushi Taro", 
+    "longitude": -77.038657, 
+    "address": [
+      "1503 17th St NW"
+    ], 
+    "latitude": 38.909847, 
+    "categories": [
+      "sushi", 
+      "japanese"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 121, 
+    "name": "The Blind Dog Cafe", 
+    "longitude": -77.0252532958984, 
+    "address": [
+      "944 Florida Ave"
+    ], 
+    "latitude": 38.9193153381348, 
+    "categories": [
+      "bakeries", 
+      "breakfast & brunch", 
+      "cafes"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 200, 
+    "name": "Dickson Wine Bar", 
+    "longitude": -77.0242646, 
+    "address": [
+      "903 U St NW"
+    ], 
+    "latitude": 38.9171739, 
+    "categories": [
+      "wine bars"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 240, 
+    "name": "The Saloon", 
+    "longitude": -77.0285110473633, 
+    "address": [
+      "1207 U St NW"
+    ], 
+    "latitude": 38.9171905517578, 
+    "categories": [
+      "pubs"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 108, 
+    "name": "Cava Mezze Grill", 
+    "longitude": -77.0773315429688, 
+    "address": [
+      "4237 Wisconsin Ave NW"
+    ], 
+    "latitude": 38.9443321228027, 
+    "categories": [
+      "greek", 
+      "hotdogs", 
+      "mediterranean", 
+      "fast food"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 170, 
+    "name": "Casa Luca", 
+    "longitude": -77.0266494, 
+    "address": [
+      "1099 New York Ave NW"
+    ], 
+    "latitude": 38.9014595, 
+    "categories": [
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 76, 
+    "name": "Metro Halal Food Cart", 
+    "longitude": -77.11097, 
+    "address": [
+      "4201 Wilson Blvd"
+    ], 
+    "latitude": 38.880505, 
+    "categories": [
+      "pakistani", 
+      "food stands", 
+      "halal"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 230, 
+    "name": "Jojo Restaurant And Bar", 
+    "longitude": -77.035385, 
+    "address": [
+      "1518 U St NW"
+    ], 
+    "latitude": 38.916744, 
+    "categories": [
+      "american (traditional)", 
+      "jazzandblues", 
+      "lounges", 
+      "jazz & blues"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 188, 
+    "name": "Mourayo", 
+    "longitude": -77.04615, 
+    "address": [
+      "1732 -1734 Connecticut Ave NW"
+    ], 
+    "latitude": 38.913593, 
+    "categories": [
+      "greek", 
+      "seafood", 
+      "mediterranean"
+    ]
+  }, 
+  {
+    "rating": 5.0, 
+    "review_count": 58, 
+    "name": "Casa Rosada Artisan Gelato", 
+    "longitude": -77.053864, 
+    "address": [
+      "111 S Payne St"
+    ], 
+    "latitude": 38.805519, 
+    "categories": [
+      "gelato", 
+      "desserts", 
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 137, 
+    "name": "Sweetgreen", 
+    "longitude": -77.03397303140599, 
+    "address": [
+      "1471 P St NW"
+    ], 
+    "latitude": 38.90980554135, 
+    "categories": [
+      "salad", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 1121, 
+    "name": "Ted's Bulletin", 
+    "longitude": -76.995338, 
+    "address": [
+      "505 8th St SE"
+    ], 
+    "latitude": 38.882454, 
+    "categories": [
+      "breakfast & brunch", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 432, 
+    "name": "Ravi Kabob House", 
+    "longitude": -77.1062437444925, 
+    "address": [
+      "350 N Glebe Rd"
+    ], 
+    "latitude": 38.8744126260281, 
+    "categories": [
+      "pakistani"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 294, 
+    "name": "Charlie Palmer Steak", 
+    "longitude": -77.0130692, 
+    "address": [
+      "101 Constitution Avenue Northwest"
+    ], 
+    "latitude": 38.8927994, 
+    "categories": [
+      "steak", 
+      "lounges"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 760, 
+    "name": "Granville Moore's", 
+    "longitude": -76.9889221, 
+    "address": [
+      "1238 H St NE"
+    ], 
+    "latitude": 38.9004097, 
+    "categories": [
+      "belgian", 
+      "gastropubs", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 76, 
+    "name": "Nomad", 
+    "longitude": -76.990002, 
+    "address": [
+      "1200 H St NE"
+    ], 
+    "latitude": 38.9004173278809, 
+    "categories": [
+      "hookah bars", 
+      "lounges"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 292, 
+    "name": "Nellie's Sports Bar", 
+    "longitude": -77.024206198442, 
+    "address": [
+      "900 U St NW"
+    ], 
+    "latitude": 38.916881946188, 
+    "categories": [
+      "american (traditional)", 
+      "sports bars", 
+      "gay bars"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 176, 
+    "name": "Jetties", 
+    "longitude": -77.083978929927, 
+    "address": [
+      "1609 Foxhall Rd NW"
+    ], 
+    "latitude": 38.911227771218, 
+    "categories": [
+      "delis", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 363, 
+    "name": "Bonchon Arlington", 
+    "longitude": -77.0856336504221, 
+    "address": [
+      "2209 N Pershing Dr", 
+      "Ste E"
+    ], 
+    "latitude": 38.8807620853186, 
+    "categories": [
+      "korean", 
+      "chicken wings"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 705, 
+    "name": "Busboys and Poets", 
+    "longitude": -77.018738476113, 
+    "address": [
+      "1025 5th St NW"
+    ], 
+    "latitude": 38.902820047311, 
+    "categories": [
+      "coffee", 
+      "vegetarian", 
+      "bookstores"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 646, 
+    "name": "Sticky Fingers Sweets & Eats", 
+    "longitude": -77.0321390032768, 
+    "address": [
+      "1370 Park Rd NW"
+    ], 
+    "latitude": 38.9304372668266, 
+    "categories": [
+      "bakeries", 
+      "coffee", 
+      "vegan"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 167, 
+    "name": "BakeHouse", 
+    "longitude": -77.0323272518118, 
+    "address": [
+      "1407 T St NW"
+    ], 
+    "latitude": 38.9157029474859, 
+    "categories": [
+      "bakeries", 
+      "coffee", 
+      "desserts"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 77, 
+    "name": "Dickey's Frozen Custard", 
+    "longitude": -77.0401243, 
+    "address": [
+      "1710 I St NW"
+    ], 
+    "latitude": 38.9012767, 
+    "categories": [
+      "ice cream & frozen yogurt", 
+      "icecream", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 104, 
+    "name": "Thally", 
+    "longitude": -77.0240082129832, 
+    "address": [
+      "1316 9th St NW"
+    ], 
+    "latitude": 38.9078281038309, 
+    "categories": [
+      "bars", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 343, 
+    "name": "The White House", 
+    "longitude": -77.0365357495676, 
+    "address": [
+      "1600 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.8979533521555, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 51, 
+    "name": "&pizza", 
+    "longitude": -76.9965863227844, 
+    "address": [
+      "666 Monroe St NE"
+    ], 
+    "latitude": 38.9324348419905, 
+    "categories": [
+      "vegetarian", 
+      "vegan", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 33, 
+    "name": "Bravo Bar", 
+    "longitude": -77.022782, 
+    "address": [
+      "2917 Georgia Ave NW"
+    ], 
+    "latitude": 38.927799, 
+    "categories": [
+      "bars"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 448, 
+    "name": "Russia House Restaurant & Lounge", 
+    "longitude": -77.046508, 
+    "address": [
+      "1800 Connecticut Ave NW"
+    ], 
+    "latitude": 38.914402, 
+    "categories": [
+      "russian", 
+      "lounges"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 180, 
+    "name": "Khepra's Raw Food Juice Bar", 
+    "longitude": -77.0002594, 
+    "address": [
+      "402 H St NE"
+    ], 
+    "latitude": 38.9004593, 
+    "categories": [
+      "raw_food", 
+      "juicebars", 
+      "vegan", 
+      "live/raw food", 
+      "juice bars & smoothies"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 43, 
+    "name": "Gypsy Sally's", 
+    "longitude": -77.0679445744438, 
+    "address": [
+      "3401 K St NW"
+    ], 
+    "latitude": 38.9041329925366, 
+    "categories": [
+      "bars", 
+      "music venues"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 159, 
+    "name": "Masala Express", 
+    "longitude": -77.0897522, 
+    "address": [
+      "2622-A North Pershing Dr"
+    ], 
+    "latitude": 38.8806458, 
+    "categories": [
+      "indpak", 
+      "indian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 203, 
+    "name": "Bourbon Coffee", 
+    "longitude": -77.047493193173, 
+    "address": [
+      "2101 L St NW"
+    ], 
+    "latitude": 38.903867124451, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 67, 
+    "name": "Nagomi Izakaya", 
+    "longitude": -77.0442814214264, 
+    "address": [
+      "1990 M St NW", 
+      "Ste 100"
+    ], 
+    "latitude": 38.9055434369695, 
+    "categories": [
+      "sushi", 
+      "ramen"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 572, 
+    "name": "Sichuan Pavilion", 
+    "longitude": -77.0425974603272, 
+    "address": [
+      "1814 K St NW"
+    ], 
+    "latitude": 38.902487490116, 
+    "categories": [
+      "szechuan"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 78, 
+    "name": "Cornercopia", 
+    "longitude": -77.001808, 
+    "address": [
+      "1000 3rd St SE"
+    ], 
+    "latitude": 38.878273, 
+    "categories": [
+      "beer, wine & spirits", 
+      "delis", 
+      "convenience"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 56, 
+    "name": "Daily 14", 
+    "longitude": -77.031775287256, 
+    "address": [
+      "1135 14th St NW"
+    ], 
+    "latitude": 38.904937391901, 
+    "categories": [
+      "convenience", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 536, 
+    "name": "Cedar", 
+    "longitude": -77.023318, 
+    "address": [
+      "822 E St NW"
+    ], 
+    "latitude": 38.896026, 
+    "categories": [
+      "french", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 161, 
+    "name": "South Block Cafe", 
+    "longitude": -77.0939578, 
+    "address": [
+      "3011 N 11th St"
+    ], 
+    "latitude": 38.886226, 
+    "categories": [
+      "juice bars & smoothies", 
+      "coffee", 
+      "juicebars"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 30, 
+    "name": "Jumbo Slice Pizza Kouzina Angelina's", 
+    "longitude": -77.0226795226336, 
+    "address": [
+      "725 Florida Ave NW"
+    ], 
+    "latitude": 38.9167436222272, 
+    "categories": [
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 127, 
+    "name": "Crepes On The Walk", 
+    "longitude": -77.0217743, 
+    "address": [
+      "701 7th St NW"
+    ], 
+    "latitude": 38.898571, 
+    "categories": [
+      "desserts", 
+      "creperies"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 230, 
+    "name": "Al Tiramisu", 
+    "longitude": -77.04557, 
+    "address": [
+      "2014 P St NW"
+    ], 
+    "latitude": 38.909393, 
+    "categories": [
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 150, 
+    "name": "Black Jack", 
+    "longitude": -77.032363, 
+    "address": [
+      "1612 14th St NW"
+    ], 
+    "latitude": 38.911628, 
+    "categories": [
+      "cocktail bars", 
+      "lounges"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 121, 
+    "name": "Sona Creamery & Wine Bar", 
+    "longitude": -76.9965618, 
+    "address": [
+      "660 Pennsylvania Ave SE"
+    ], 
+    "latitude": 38.8850804, 
+    "categories": [
+      "wine bars", 
+      "cheese"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 100, 
+    "name": "Mockingbird Hill", 
+    "longitude": -77.0219039, 
+    "address": [
+      "1843 7th St NW"
+    ], 
+    "latitude": 38.9151536, 
+    "categories": [
+      "wine bars"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 25, 
+    "name": "Sweetgreen", 
+    "longitude": -77.0313921289439, 
+    "address": [
+      "1325 W St NW"
+    ], 
+    "latitude": 38.91922223875, 
+    "categories": [
+      "ice cream & frozen yogurt", 
+      "juice bars & smoothies", 
+      "juicebars", 
+      "salad", 
+      "icecream"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 406, 
+    "name": "The Bombay Club", 
+    "longitude": -77.0379486, 
+    "address": [
+      "815 Connecticut Ave NW"
+    ], 
+    "latitude": 38.900959, 
+    "categories": [
+      "indpak", 
+      "indian"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 1247, 
+    "name": "Jaleo", 
+    "longitude": -77.0220413, 
+    "address": [
+      "480 7th St NW"
+    ], 
+    "latitude": 38.8957748, 
+    "categories": [
+      "tapas", 
+      "spanish"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 189, 
+    "name": "Bagels Etc.", 
+    "longitude": -77.0476303100586, 
+    "address": [
+      "2122 P Street NW"
+    ], 
+    "latitude": 38.9093971252441, 
+    "categories": [
+      "breakfast & brunch", 
+      "bagels", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 166, 
+    "name": "District Doughnut", 
+    "longitude": -76.9951451508514, 
+    "address": [
+      "749 8th St SE"
+    ], 
+    "latitude": 38.8796051022188, 
+    "categories": [
+      "donuts", 
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 706, 
+    "name": "Northside Social Coffee & Wine", 
+    "longitude": -77.0977936, 
+    "address": [
+      "3211 Wilson Blvd"
+    ], 
+    "latitude": 38.8854408, 
+    "categories": [
+      "coffee", 
+      "american (traditional)", 
+      "wine bars"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 610, 
+    "name": "Nando's PERi-PERi", 
+    "longitude": -77.0217397867798, 
+    "address": [
+      "819 7th St NW"
+    ], 
+    "latitude": 38.9002882773727, 
+    "categories": [
+      "portuguese", 
+      "south african"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 110, 
+    "name": "West Wing Cafe", 
+    "longitude": -77.010816, 
+    "address": [
+      "300 New Jersey Ave NW"
+    ], 
+    "latitude": 38.894425, 
+    "categories": [
+      "delis"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 987, 
+    "name": "Masa 14", 
+    "longitude": -77.0318902283907, 
+    "address": [
+      "1825 14th St NW"
+    ], 
+    "latitude": 38.914966955781, 
+    "categories": [
+      "asian fusion"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 49, 
+    "name": "Cafe Carvy", 
+    "longitude": -77.043816, 
+    "address": [
+      "1020 19th St NW"
+    ], 
+    "latitude": 38.903152, 
+    "categories": [
+      "breakfast & brunch", 
+      "cafes"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 363, 
+    "name": "Matchbox 14th Street", 
+    "longitude": -77.031941, 
+    "address": [
+      "1901 14th St NW"
+    ], 
+    "latitude": 38.915611, 
+    "categories": [
+      "burgers", 
+      "american (new)", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 69, 
+    "name": "Cafe Kimchi", 
+    "longitude": -76.995237, 
+    "address": [
+      "751 8th St SE"
+    ], 
+    "latitude": 38.879565, 
+    "categories": [
+      "american (traditional)", 
+      "breakfast & brunch", 
+      "korean"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 580, 
+    "name": "Hot N Juicy Crawfish", 
+    "longitude": -77.0519256591797, 
+    "address": [
+      "2651 Connecticut Ave NW"
+    ], 
+    "latitude": 38.9250640869141, 
+    "categories": [
+      "seafood", 
+      "cajun"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 334, 
+    "name": "Wicked Waffle", 
+    "longitude": -77.040022, 
+    "address": [
+      "1712 I St NW"
+    ], 
+    "latitude": 38.901091, 
+    "categories": [
+      "breakfast & brunch", 
+      "gluten_free", 
+      "sandwiches", 
+      "gluten-free"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 161, 
+    "name": "Compass Rose", 
+    "longitude": -77.0314902439713, 
+    "address": [
+      "1346 T St NW"
+    ], 
+    "latitude": 38.9154319818375, 
+    "categories": [
+      "ethnic food", 
+      "gastropubs", 
+      "mediterranean", 
+      "ethnicmarkets"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 861, 
+    "name": "Daikaya - Ramen Shop", 
+    "longitude": -77.019589, 
+    "address": [
+      "705 6th St NW"
+    ], 
+    "latitude": 38.898575, 
+    "categories": [
+      "ramen"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 117, 
+    "name": "Restaurant Judy", 
+    "longitude": -77.0323257446289, 
+    "address": [
+      "2212 14th St NW"
+    ], 
+    "latitude": 38.9196701049805, 
+    "categories": [
+      "latin"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 564, 
+    "name": "Lincoln", 
+    "longitude": -77.0332108, 
+    "address": [
+      "1110 Vermont Ave NW"
+    ], 
+    "latitude": 38.9042816, 
+    "categories": [
+      "gastropubs", 
+      "southern"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 351, 
+    "name": "Brooklyn Bagel Bakery", 
+    "longitude": -77.084259, 
+    "address": [
+      "2055 Wilson Blvd"
+    ], 
+    "latitude": 38.8917618, 
+    "categories": [
+      "bagels", 
+      "coffee", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 1061, 
+    "name": "Graffiato", 
+    "longitude": -77.019592, 
+    "address": [
+      "707 6th St NW"
+    ], 
+    "latitude": 38.89867, 
+    "categories": [
+      "breakfast & brunch", 
+      "italian", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 1197, 
+    "name": "2 Amys Neapolitan Pizzeria", 
+    "longitude": -77.0730667, 
+    "address": [
+      "3715 Macomb St NW"
+    ], 
+    "latitude": 38.9337196, 
+    "categories": [
+      "italian", 
+      "pizza"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 228, 
+    "name": "Moby Dick House of Kabob", 
+    "longitude": -77.042834, 
+    "address": [
+      "1300 Connecticut Ave NW"
+    ], 
+    "latitude": 38.907398, 
+    "categories": [
+      "persian", 
+      "mideastern", 
+      "middle eastern"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 84, 
+    "name": "Potbelly Sandwich Shop", 
+    "longitude": -77.039917, 
+    "address": [
+      "1701 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.8993683, 
+    "categories": [
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 309, 
+    "name": "The Regent", 
+    "longitude": -77.041989, 
+    "address": [
+      "1910 18th St NW"
+    ], 
+    "latitude": 38.916081, 
+    "categories": [
+      "thai"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 310, 
+    "name": "Room 11", 
+    "longitude": -77.0281178, 
+    "address": [
+      "3234 11th St NW"
+    ], 
+    "latitude": 38.9305551, 
+    "categories": [
+      "coffee", 
+      "american (new)", 
+      "wine bars"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 168, 
+    "name": "Cafe Tu-O-Tu", 
+    "longitude": -77.057632, 
+    "address": [
+      "2816 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.904892, 
+    "categories": [
+      "cafes", 
+      "mediterranean", 
+      "turkish"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 810, 
+    "name": "Kafe Leopold", 
+    "longitude": -77.066417520389, 
+    "address": [
+      "3315 Cady's Alley NW"
+    ], 
+    "latitude": 38.90479187442, 
+    "categories": [
+      "austrian", 
+      "modern european", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 355, 
+    "name": "Kapnos", 
+    "longitude": -77.0318283404755, 
+    "address": [
+      "2201 14th St NW"
+    ], 
+    "latitude": 38.9192513316767, 
+    "categories": [
+      "tapas/small plates", 
+      "greek", 
+      "tapasmallplates", 
+      "breakfast & brunch"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 76, 
+    "name": "Figs Lebanese Cafe", 
+    "longitude": -77.0965424, 
+    "address": [
+      "4828 MacArthur Blvd NW"
+    ], 
+    "latitude": 38.91679, 
+    "categories": [
+      "lebanese", 
+      "cafes", 
+      "mediterranean"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 267, 
+    "name": "St. Arnold's Mussel Bar", 
+    "longitude": -77.058149, 
+    "address": [
+      "3433 Connecticut Ave NW"
+    ], 
+    "latitude": 38.935395, 
+    "categories": [
+      "bars", 
+      "seafood"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 36, 
+    "name": "Air Force Memorial", 
+    "longitude": -77.0668816566467, 
+    "address": [
+      "1 Air Force Memorial Dr"
+    ], 
+    "latitude": 38.868382124737, 
+    "categories": [
+      "landmarks"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 562, 
+    "name": "Vinoteca", 
+    "longitude": -77.027394, 
+    "address": [
+      "1940 11th St NW"
+    ], 
+    "latitude": 38.916758, 
+    "categories": [
+      "wine bars", 
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 43, 
+    "name": "Sip of Seattle", 
+    "longitude": -77.0277481, 
+    "address": [
+      "1120 G St NW"
+    ], 
+    "latitude": 38.8980103, 
+    "categories": [
+      "coffee", 
+      "restaurants"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 179, 
+    "name": "Bistro Bohem", 
+    "longitude": -77.0200617, 
+    "address": [
+      "600 Florida Ave NW"
+    ], 
+    "latitude": 38.9154345, 
+    "categories": [
+      "breakfast & brunch", 
+      "modern european", 
+      "diners"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 248, 
+    "name": "The Prime Rib", 
+    "longitude": -77.0459976196289, 
+    "address": [
+      "2020 K St NW"
+    ], 
+    "latitude": 38.9021186828613, 
+    "categories": [
+      "steak"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 131, 
+    "name": "Wisdom", 
+    "longitude": -76.984116, 
+    "address": [
+      "1432 Pennsylvania Ave SE"
+    ], 
+    "latitude": 38.880112, 
+    "categories": [
+      "lounges"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 174, 
+    "name": "I-Thai Restaurant & Sushi Bar", 
+    "longitude": -77.0592474, 
+    "address": [
+      "3003 M St NW"
+    ], 
+    "latitude": 38.9052295, 
+    "categories": [
+      "thai", 
+      "sushi"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 179, 
+    "name": "Roti Mediterranean Grill", 
+    "longitude": -77.0494232, 
+    "address": [
+      "2221 I St NW"
+    ], 
+    "latitude": 38.9010887, 
+    "categories": [
+      "mideastern", 
+      "mediterranean", 
+      "middle eastern"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 125, 
+    "name": "Peregrine Espresso", 
+    "longitude": -77.0324020385742, 
+    "address": [
+      "1718 14th St NW"
+    ], 
+    "latitude": 38.9132766723633, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 209, 
+    "name": "Moby Dick House of Kabob", 
+    "longitude": -77.0613022, 
+    "address": [
+      "1070 31st St NW"
+    ], 
+    "latitude": 38.9048615, 
+    "categories": [
+      "persian", 
+      "mideastern", 
+      "middle eastern"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 207, 
+    "name": "China Boy", 
+    "longitude": -77.019577, 
+    "address": [
+      "815 6th St NW"
+    ], 
+    "latitude": 38.900372, 
+    "categories": [
+      "chinese"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 617, 
+    "name": "Urbana", 
+    "longitude": -77.0474696, 
+    "address": [
+      "2121 P St NW"
+    ], 
+    "latitude": 38.9098016, 
+    "categories": [
+      "breakfast & brunch", 
+      "pizza", 
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 189, 
+    "name": "Protein Bar", 
+    "longitude": -77.0219573378563, 
+    "address": [
+      "398 7th St NW"
+    ], 
+    "latitude": 38.8946425169706, 
+    "categories": [
+      "juice bars & smoothies", 
+      "vegetarian", 
+      "juicebars", 
+      "gluten-free", 
+      "gluten_free"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 82, 
+    "name": "Rock Creek Park Nature Center", 
+    "longitude": -77.05172438992, 
+    "address": [
+      "5200 Glover Rd NW"
+    ], 
+    "latitude": 38.960020814477, 
+    "categories": [
+      "parks"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 1126, 
+    "name": "Zengo", 
+    "longitude": -77.0217743, 
+    "address": [
+      "781 Seventh Street NW"
+    ], 
+    "latitude": 38.8994751, 
+    "categories": [
+      "asian fusion", 
+      "latin"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 80, 
+    "name": "The Smithsonian Institution", 
+    "longitude": -77.0263125747442, 
+    "address": [
+      "1000 Jefferson Dr SW"
+    ], 
+    "latitude": 38.8890004903078, 
+    "categories": [
+      "museums", 
+      "landmarks", 
+      "galleries"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 45, 
+    "name": "All Souls Bar", 
+    "longitude": -77.0227059, 
+    "address": [
+      "725 T St NW"
+    ], 
+    "latitude": 38.9157506, 
+    "categories": [
+      "bars"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 458, 
+    "name": "Eighteenth Street Lounge", 
+    "longitude": -77.0420532, 
+    "address": [
+      "1212 18th St N W"
+    ], 
+    "latitude": 38.9062119, 
+    "categories": [
+      "dance clubs", 
+      "lounges"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 214, 
+    "name": "Boundary Road", 
+    "longitude": -76.999878, 
+    "address": [
+      "414 H St NE"
+    ], 
+    "latitude": 38.900467, 
+    "categories": [
+      "american (traditional)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 108, 
+    "name": "Cafe Phillips", 
+    "longitude": -77.0325317, 
+    "address": [
+      "1401 H St NW"
+    ], 
+    "latitude": 38.9005394, 
+    "categories": [
+      "american (traditional)", 
+      "breakfast & brunch"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 110, 
+    "name": "National Cherry Blossom Festival", 
+    "longitude": -77.0362231280573, 
+    "address": [
+      "Tidal Basin"
+    ], 
+    "latitude": 38.8850438683136, 
+    "categories": [
+      "festivals", 
+      "parks"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 212, 
+    "name": "Julia's Empanadas", 
+    "longitude": -77.042747, 
+    "address": [
+      "2452 18th St NW"
+    ], 
+    "latitude": 38.92197, 
+    "categories": [
+      "latin"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 247, 
+    "name": "Earls", 
+    "longitude": -77.089932, 
+    "address": [
+      "2605 Wilson Blvd"
+    ], 
+    "latitude": 38.890106, 
+    "categories": [
+      "caterers", 
+      "sandwiches", 
+      "catering"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 189, 
+    "name": "Daikaya", 
+    "longitude": -77.019589, 
+    "address": [
+      "705 6th St NW"
+    ], 
+    "latitude": 38.898603, 
+    "categories": [
+      "japanese"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 158, 
+    "name": "Super Pollo", 
+    "longitude": -77.108069698522, 
+    "address": [
+      "550 N Quincy St"
+    ], 
+    "latitude": 38.877862629807, 
+    "categories": [
+      "peruvian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 437, 
+    "name": "Ray's To The Third", 
+    "longitude": -77.0777588, 
+    "address": [
+      "1650 Wilson Blvd"
+    ], 
+    "latitude": 38.893959, 
+    "categories": [
+      "american (traditional)", 
+      "burgers", 
+      "steak"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 329, 
+    "name": "Mama Ayesha's", 
+    "longitude": -77.0466604828835, 
+    "address": [
+      "1967 Calvert St NW"
+    ], 
+    "latitude": 38.9232952147722, 
+    "categories": [
+      "mediterranean", 
+      "mideastern", 
+      "middle eastern"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 200, 
+    "name": "Osteria Morini", 
+    "longitude": -77.0013841708283, 
+    "address": [
+      "301 Water St SE", 
+      "Ste 109"
+    ], 
+    "latitude": 38.8733022086741, 
+    "categories": [
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 1516, 
+    "name": "Oyamel Cocina Mexicana", 
+    "longitude": -77.0218453556299, 
+    "address": [
+      "401 7th St NW"
+    ], 
+    "latitude": 38.8949181139469, 
+    "categories": [
+      "tapas", 
+      "mexican"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 290, 
+    "name": "Bayou", 
+    "longitude": -77.0538534969091, 
+    "address": [
+      "2519 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.9038740098476, 
+    "categories": [
+      "cajun", 
+      "music venues"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 23, 
+    "name": "The Smithsonian Folklife Festival", 
+    "longitude": -77.036667, 
+    "address": [
+      "National Mall"
+    ], 
+    "latitude": 38.895, 
+    "categories": [
+      "festivals", 
+      "local flavor"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 568, 
+    "name": "Bangkok 54 Restaurant & Bar", 
+    "longitude": -77.087696, 
+    "address": [
+      "2919 Columbia Pike"
+    ], 
+    "latitude": 38.862589, 
+    "categories": [
+      "thai"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 64, 
+    "name": "Potbelly Sandwich Shop", 
+    "longitude": -77.0422653047851, 
+    "address": [
+      "Ronald Reagan Washington National Airport", 
+      "2605 S Clark St"
+    ], 
+    "latitude": 38.851177296821, 
+    "categories": [
+      "sandwiches", 
+      "salad"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 46, 
+    "name": "Askale Cafe", 
+    "longitude": -76.9910351, 
+    "address": [
+      "3629 12th St NE"
+    ], 
+    "latitude": 38.9343713, 
+    "categories": [
+      "coffee", 
+      "ethiopian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 47, 
+    "name": "Seasons Restaurant", 
+    "longitude": -77.057556, 
+    "address": [
+      "2800 Pennsylvania Ave NW"
+    ], 
+    "latitude": 38.904488, 
+    "categories": [
+      "american (new)"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 370, 
+    "name": "Me Jana", 
+    "longitude": -77.0867072045803, 
+    "address": [
+      "2300 Wilson Blvd"
+    ], 
+    "latitude": 38.8909269869328, 
+    "categories": [
+      "lebanese", 
+      "mediterranean"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 134, 
+    "name": "Byblos Deli", 
+    "longitude": -77.0583878, 
+    "address": [
+      "3414 Connecticut Ave NW"
+    ], 
+    "latitude": 38.9347191, 
+    "categories": [
+      "mideastern", 
+      "middle eastern"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 53, 
+    "name": "Far East Taco Grille", 
+    "longitude": -76.983377, 
+    "address": [
+      "409 15th St NE"
+    ], 
+    "latitude": 38.895272, 
+    "categories": [
+      "asian fusion", 
+      "mexican"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 46, 
+    "name": "Cafe Grande", 
+    "longitude": -77.041267, 
+    "address": [
+      "1775 K St NW"
+    ], 
+    "latitude": 38.902885, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 71, 
+    "name": "Tazza Kitchen Arlington Ridge", 
+    "longitude": -77.0678137242794, 
+    "address": [
+      "2931 S Glebe Rd"
+    ], 
+    "latitude": 38.8448385894299, 
+    "categories": [
+      "cocktail bars", 
+      "mexican", 
+      "italian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 123, 
+    "name": "Sophie's Cuban Cuisine", 
+    "longitude": -77.043793, 
+    "address": [
+      "1134 19th St NW"
+    ], 
+    "latitude": 38.904808, 
+    "categories": [
+      "cuban", 
+      "sandwiches"
+    ]
+  }, 
+  {
+    "rating": 3.5, 
+    "review_count": 550, 
+    "name": "Teaism", 
+    "longitude": -77.0458109230396, 
+    "address": [
+      "2009 R St NW"
+    ], 
+    "latitude": 38.9127871541497, 
+    "categories": [
+      "tea", 
+      "indpak", 
+      "indian"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 36, 
+    "name": "Capital Teas", 
+    "longitude": -77.0443954467773, 
+    "address": [
+      "1627 Connecticut Ave"
+    ], 
+    "latitude": 38.9120407104492, 
+    "categories": [
+      "coffee"
+    ]
+  }, 
+  {
+    "rating": 4.5, 
+    "review_count": 56, 
+    "name": "Arlington Kabob", 
+    "longitude": -77.1310229, 
+    "address": [
+      "5046 Lee Hwy"
+    ], 
+    "latitude": 38.8963272, 
+    "categories": [
+      "afghan", 
+      "halal"
+    ]
+  }, 
+  {
+    "rating": 4.0, 
+    "review_count": 74, 
+    "name": "Crane & Turtle", 
+    "longitude": -77.0245882496238, 
+    "address": [
+      "828 Upshur St NW"
+    ], 
+    "latitude": 38.9417524969359, 
+    "categories": [
+      "japanese", 
+      "french"
+    ]
+  }
+]
