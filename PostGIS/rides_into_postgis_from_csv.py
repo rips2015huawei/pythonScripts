@@ -16,7 +16,7 @@ def round_time(dt, res):
 	return dt + timedelta(0, rounding - seconds, -dt.microsecond)
 
 
-data_base = '/Users/julienclancy/Desktop/RIPS 2015/databases'
+data_base = '/Users/Flareon/Desktop/pythonScripts/PostGIS/databases'
 # just download the zipped folder and unpack in the data_base route
 import json
 import ijson  # for very large files
@@ -72,13 +72,13 @@ filenames = [
 	# '2012Q2.csv',
 	# '2012Q3.csv',
 	# '2012Q4.csv',
-	# '2014Q1.csv',
+	'2014Q1.csv',
 	'2014Q2.csv',
-	# '2014Q3.csv',
-	# '2014Q4.csv'
+	'2014Q3.csv',
+	'2014Q4.csv'
 ]
 
-f_base = '/Users/julienclancy/Desktop/RIPS 2015/databases/bikeshare'
+f_base = '/Users/Flareon/Desktop/pythonScripts/SystemData'
 filenames = ['%s/%s' % (f_base, f) for f in filenames]
 
 def convert_file(fname, out_arr):
@@ -124,14 +124,14 @@ def convert_file(fname, out_arr):
 			print i
 	f.close()
 
-for fname in filenames:
+for j, fname in enumerate(filenames):
 	out_arr = []
 	convert_file(fname, out_arr)
 
 	for i in range(0, len(out_arr) + 1, 10000):
 		db_session.add_all(out_arr[i:(i + 10000)])
 		db_session.commit()
-		print 'loaded part', i / 10000, 'of about', len(out_arr) / 10000
+		print 'loaded part', i / 10000, 'of about', len(out_arr) / 10000, 'from file', j
 
 
 	out_arr = None

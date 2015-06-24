@@ -45,7 +45,7 @@ def round_time(dt, res):
 	return dt + timedelta(0, rounding - seconds, -dt.microsecond)
 
 
-data_base = '/Users/julienclancy/Desktop/RIPS 2015/databases'
+data_base = '/Users/Flareon/Desktop/pythonScripts/PostGIS/databases'
 # just download the zipped folder and unpack in the data_base route
 import json
 import ijson  # for very large files
@@ -244,6 +244,7 @@ db_session.commit()
 # BIKE RIDES
 #
 
+"""
 os.chdir(os.path.join(data_base, 'bikeshare'))
 
 stations_hs = {s.name: s for s in bike_stat_ls}
@@ -299,7 +300,7 @@ f.close()
 
 db_session.add_all(ride_ls)
 db_session.commit()
-
+"""
 
 
 #
